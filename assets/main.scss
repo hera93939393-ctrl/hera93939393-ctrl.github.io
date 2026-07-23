@@ -28,7 +28,9 @@ a:hover {
 }
 
 .site-header {
-  background-color: #fff9db;
+  background-color: #fafafa;
+  background-image: radial-gradient(circle, rgba(0, 0, 0, 0.12) 1.5px, transparent 1.5px);
+  background-size: 18px 18px;
   border-top: 3px solid var(--ink);
   border-bottom: 1px solid var(--line);
 }
