@@ -20,7 +20,7 @@ layout: default
   </header>
 
   {%- if page.image -%}
-  <p class="post-banner">
+  <p class="post-banner{% if page.banner_large %} banner-large{% endif %}">
     <img src="{{ page.image }}" alt="{{ page.title | escape }}">
   </p>
   {%- endif -%}

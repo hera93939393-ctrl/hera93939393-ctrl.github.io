@@ -150,6 +150,10 @@ a:hover {
   border-radius: 12px;
   border: 1px solid var(--line);
 }
+.post-banner.banner-large img {
+  width: 100%;
+  max-width: 100%;
+}
 
 .step-list {
   display: flex;

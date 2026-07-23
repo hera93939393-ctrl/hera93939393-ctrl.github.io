@@ -6,7 +6,7 @@ categories: 공부기록
 icon: "🌟"
 image: "https://github.com/user-attachments/assets/022b82fb-9939-4a7a-8284-e2090a8c83a0"
 thumb: "https://github.com/user-attachments/assets/5c688d5d-3f86-4306-9e96-a254d69f46fe"
-
+banner_large: true
 ---
 
 <p class="lead">우선 컴퓨터와 친해지자!</p>
