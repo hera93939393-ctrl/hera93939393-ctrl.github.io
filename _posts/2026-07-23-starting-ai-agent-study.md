@@ -4,8 +4,7 @@ title: "AI 에이전트 공부, 왜 시작했나!"
 date: 2026-07-23
 categories: 공부기록
 icon: "🌈"
-image: <img width="480" height="480" alt="Suggestion (2)" src="https://github.com/user-attachments/assets/eb4bbe1a-43f0-4540-9093-998731f2e311" />
-" 
+image: "https://github.com/user-attachments/assets/eb4bbe1a-43f0-4540-9093-998731f2e311"
 ---
 
 공공기관에서 16년간 일하면서 한글문서 작업을 정말 많이 해왔습니다.<br> 
