@@ -4,9 +4,8 @@ title: "첫 수업, 그리고 카오스(CHAOS)"
 date: 2026-07-09
 categories: 공부기록
 icon: "🌟"
-IMAGE : "https://github.com/user-attachments/assets/9f7a8be2-f811-4106-a424-46be20feb1b6"
-THUMB : https://github.com/user-attachments/assets/022b82fb-9939-4a7a-8284-e2090a8c83a0"
-
+image: "https://github.com/user-attachments/assets/9f7a8be2-f811-4106-a424-46be20feb1b6"
+thumb: "https://github.com/user-attachments/assets/022b82fb-9939-4a7a-8284-e2090a8c83a0"
 ---
 
 우선 컴퓨터와 친해지자!
