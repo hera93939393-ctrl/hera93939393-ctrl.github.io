@@ -3,6 +3,7 @@ layout: post
 title: "모연 English 만들기, 둘째 날 — 배포까지 가는 길"
 date: 2026-07-23
 categories: 공부기록
+icon: "🚀"
 ---
 
 첫째 날에 이어, 실제로 배포까지 끝낸 둘째 날 기록입니다.
