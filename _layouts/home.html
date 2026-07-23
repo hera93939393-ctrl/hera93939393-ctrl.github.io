@@ -16,7 +16,7 @@ layout: default
   {%- endif -%}
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    {%- for post in site.posts -%}
+    {%- for post in site.posts reversed -%}
     {%- assign thumb = post.thumb | default: post.image -%}
     <li class="post-item{% if thumb %} has-thumb{% endif %}">
       {%- if thumb -%}
