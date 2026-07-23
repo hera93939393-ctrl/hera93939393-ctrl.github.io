@@ -33,7 +33,10 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          <p class="post-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 40 }}</p>
+          {%- assign clean = post.content | strip_html | strip_newlines | strip -%}
+          {%- assign sentences = clean | split: "." -%}
+          {%- assign preview = sentences | slice: 0, 3 | join: ". " | strip -%}
+          <p class="post-excerpt">{{ preview }}{% if sentences.size > 3 %}....{% else %}.{% endif %}</p>
         {%- endif -%}
       </div>
     </li>
