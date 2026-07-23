@@ -1,0 +1,10 @@
+title: 하라의 AI 에이전트 공부 기록
+description: 공공기관에서 일하며 AI 에이전트를 공부하고, 이것저것 직접 만들어보며 배운 것을 기록하는 블로그
+theme: minima
+lang: ko
+markdown: kramdown
+
+minima:
+  skin: classic
+
+show_excerpts: true
