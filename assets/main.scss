@@ -84,6 +84,26 @@ a:hover {
 .post-list > li:first-of-type {
   padding-top: 20px;
 }
+.post-list > li.has-thumb {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+}
+.post-thumb-link {
+  flex: none;
+}
+.post-thumb {
+  display: block;
+  width: 84px;
+  height: 84px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+}
+.post-item-body {
+  flex: 1;
+  min-width: 0;
+}
 
 .post-meta {
   color: var(--muted);
@@ -105,6 +125,16 @@ a:hover {
 .post-link:hover {
   text-decoration: underline;
   text-decoration-color: var(--ink);
+}
+
+.post-banner {
+  margin: 20px 0 0;
+}
+.post-banner img {
+  display: block;
+  max-width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--line);
 }
 
 .post-content {
