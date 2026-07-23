@@ -9,7 +9,7 @@ thumb: "https://github.com/user-attachments/assets/5c688d5d-3f86-4306-9e96-a254d
 
 ---
 
-# 우선 컴퓨터와 친해지자!
+<p class="lead">우선 컴퓨터와 친해지자!</p>
 
 ## AI 개념부터 차근차근!
 
