@@ -17,10 +17,11 @@ layout: default
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in site.posts -%}
-    <li class="post-item{% if post.image %} has-thumb{% endif %}">
-      {%- if post.image -%}
+    {%- assign thumb = post.thumb | default: post.image -%}
+    <li class="post-item{% if thumb %} has-thumb{% endif %}">
+      {%- if thumb -%}
       <a class="post-thumb-link" href="{{ post.url | relative_url }}">
-        <img class="post-thumb" src="{{ post.image }}" alt="{{ post.title | escape }}">
+        <img class="post-thumb" src="{{ thumb }}" alt="{{ post.title | escape }}">
       </a>
       {%- endif -%}
       <div class="post-item-body">
