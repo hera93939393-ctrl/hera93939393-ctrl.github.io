@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI 에이전트 공부, 왜 시작했나!"
-date: 2026-07-23
+date: 2026-07-08
 categories: 공부기록
 icon: "🌈"
 image: "https://github.com/user-attachments/assets/eb4bbe1a-43f0-4540-9093-998731f2e311"
