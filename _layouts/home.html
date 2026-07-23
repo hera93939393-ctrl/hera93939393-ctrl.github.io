@@ -33,7 +33,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          <p class="post-excerpt">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 40 }}</p>
         {%- endif -%}
       </div>
     </li>

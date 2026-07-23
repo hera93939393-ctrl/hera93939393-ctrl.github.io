@@ -111,6 +111,12 @@ a:hover {
   letter-spacing: 0.02em;
 }
 
+.post-excerpt {
+  margin: 6px 0 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
 .post-icon {
   display: inline-block;
   margin-right: 6px;
