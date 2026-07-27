@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Attention Is All You Need!"
-date: 2026-07-08
+date: 2026-07-26
 categories: 공부기록
-icon: "🌈"
-
-------
+icon: "🧠"
+---
 
 ## 논문 핵심
 
