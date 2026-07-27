@@ -52,12 +52,13 @@ icon: "🧠"
 
 ## 트랜스포머의 핵심 구성 요소 6가지
 
-1. 인코더/디코더 스택 (Encoder-Decoder Stacks) — 인코더 6개 층이 입력 문장을 이해하고, 디코더 6개 층이 그걸 바탕으로 출력 문장을 만들어내요.
-2. Scaled Dot-Product Attention — 단어(query)와 다른 단어들(key)의 내적을 계산해서 관련도를 구하고, √dk로 나눠 스케일을 조정한 뒤 softmax로 가중치를 만들어요.
-3. Multi-Head Attention — 이 attention을 8개(h=8)의 서로 다른 시선으로 병렬로 수행해서, 다양한 관점(문법 관계, 의미 관계 등)을 동시에 포착해요.
-4. Position-wise Feed-Forward Network — attention을 거친 각 단어의 표현을 ReLU가 낀 2단 신경망에 하나씩 독립적으로 통과시켜 더 다듬어요.
-5. Embeddings and Softmax — 입력 단어를 벡터로 바꾸고, 디코더 출력을 다시 단어 확률로 바꿀 때 같은 가중치 행렬을 공유해요.
-6. Positional Encoding — RNN처럼 순서대로 읽지 않으니, sin/cos 함수로 만든 "위치 번호표"를 각 단어 벡터에 더해서 순서 정보를 알려줘요.
+1. 인코더/디코더 스택 (Encoder-Decoder Stacks)<br>
+   인코더 6개 층이 입력 문장을 이해하고, 디코더 6개 층이 그걸 바탕으로 출력 문장을 만들어내요.<br>
+2. Scaled Dot-Product Attention <br> 단어(query)와 다른 단어들(key)의 내적을 계산해서 관련도를 구하고, √dk로 나눠 스케일을 조정한 뒤 softmax로 가중치를 만들어요.<br>
+3. Multi-Head Attention <br> 이 attention을 8개(h=8)의 서로 다른 시선으로 병렬로 수행해서, 다양한 관점(문법 관계, 의미 관계 등)을 동시에 포착해요.<br>
+4. Position-wise Feed-Forward Network <br> attention을 거친 각 단어의 표현을 ReLU가 낀 2단 신경망에 하나씩 독립적으로 통과시켜 더 다듬어요.<br>
+5. Embeddings and Softmax <br> 입력 단어를 벡터로 바꾸고, 디코더 출력을 다시 단어 확률로 바꿀 때 같은 가중치 행렬을 공유해요.<br>
+6. Positional Encoding <br> RNN처럼 순서대로 읽지 않으니, sin/cos 함수로 만든 "위치 번호표"를 각 단어 벡터에 더해서 순서 정보를 알려줘요.<br>
 
 ## 결과는?
 
