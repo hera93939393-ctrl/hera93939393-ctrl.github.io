@@ -27,36 +27,41 @@ banner_large: true
 AI에게 두리뭉실하게 일을 시키면 그 결과도 두리뭉실하게 돌아옵니다.
 컴퓨터에게 일을 시키려면, 컴퓨터 방식으로!
 
-(예) 매주 월요일 진행하는 주보회의록 자동화해보자<br> 
-     * 주보회의록 작성해줘(X) 아래처럼 4단계 컴퓨터 사고법으로!!
+<span style="color:blue">(예) 매주 월요일 진행하는 주보회의록 자동화해보자</span><br> 
+     * 주보회의록 작성해줘(X)<br> 
+     => 아래처럼 4단계 컴퓨터 사고법으로!!
 
 <div class="step-list">
   <div class="step-item">
     <span class="step-num">1</span>
     <div class="step-body">
       <strong>분해</strong>
-      <p>통으로 던지기 보단, 조각해서 나누기<br>(회의개요, 참석자, 안건, 주요발언, 결정사항, 후속조치로 나눠줘)</p>
+      <p>통으로 던지기 보단, 조각해서 나누기<br>
+          ## (회의개요, 참석자, 안건, 주요발언, 결정사항, 후속조치로 나눠줘)</p>
     </div>
   </div>
   <div class="step-item">
     <span class="step-num">2</span>
     <div class="step-body">
       <strong>패턴인식</strong>
-      <p>쪼갠 조각에서 반복과 공통점 찾기<br>(중복된 의견, 공통된 문제, 찬반 입장 찾기)</p>
+      <p>쪼갠 조각에서 반복과 공통점 찾기<br>
+          ## (중복된 의견, 공통된 문제, 찬반 입장 찾기)</p>
     </div>
   </div>
   <div class="step-item">
     <span class="step-num">3</span>
     <div class="step-body">
       <strong>추상화</strong>
-      <p>핵심만 남기고 나머지는 버리기<br>(인사말이나 반복 발언 등 불필요한 내용은 제외하고, 핵심 쟁점과 결론만)</p>
+      <p>핵심만 남기고 나머지는 버리기<br>
+         ## (인사말이나 반복 발언 등 불필요한 내용은 제외하고, 핵심 쟁점과 결론만)</p>
     </div>
   </div>
   <div class="step-item">
     <span class="step-num">4</span>
     <div class="step-body">
       <strong>알고리즘</strong>
-      <p>문제 푸는 단계별 순서 정하기<br>(녹취확인 → 안건별 분류 → 핵심의견 요약 → 결정사항 정리 → 담당자 확인 순서로)</p>
+      <p>문제 푸는 단계별 순서 정하기<br>
+        ## (녹취확인 → 안건별 분류 → 핵심의견 요약 → 결정사항 정리 → 담당자 확인 순서로)</p>
     </div>
   </div>
 </div>
