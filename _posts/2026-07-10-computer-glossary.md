@@ -4,8 +4,8 @@ title: "컴퓨터🖥️ 용어 정리"
 date: 2026-07-10
 categories: 공부기록
 icon: "👑"
-image: <img width="470" height="480" alt="turnarounddoctorGIFbyDr DonnaThomasRodgers" src="https://github.com/user-attachments/assets/c3914afa-2cdc-40de-9f9a-017da0fc444f" />
-thumb: <img width="450" height="450" alt="BrainTrainingMobileGamingGIFbyDigi995" src="https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb9f05e8d" />
+image: "https://github.com/user-attachments/assets/c3914afa-2cdc-40de-9f9a-017da0fc444f"
+thumb: "https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb9f05e8d"
 ---
 
 <p class="lead">AI 종류는 다양해요!</p>
