@@ -4,35 +4,24 @@ title: "ONLY AI=챗GPT??"
 date: 2026-07-13
 categories: 공부기록
 icon: "✌️"
-image: ""
-thumb: ""
+image: "<img width="480" height="264" alt="RobotNoGIFbyEsZGiphyWorld" src="https://github.com/user-attachments/assets/a8344f4f-a69a-43cf-8b34-7d560b190bf2" />"
+thumb: "<img width="480" height="366" alt="ArtificialIntelligenceAiGIFbyNeighborlyNotary®" src="https://github.com/user-attachments/assets/5a9ac878-1937-4e31-a69b-d1170ffb8700" />"
 banner_large: true
 ---
 
-<p class="lead">우선 컴퓨터와 친해지자:)</p>
+<p class="lead">생성형AI는 다양해요!</p>
 
-## AI 개념부터 차근차근!
+## 생성형AI의 2가지 Version!
 
-<div class="spotlight-box">
-ㅇ <strong>생성형 AI(Generative AI)</strong>: 글·이미지·코드처럼 새로운 결과물을 만들어내는 AI. (챗GPT 등)<br>
-ㅇ <strong>에이전트(Agent)</strong>: 사람이 목표만 주면, 거기 도달하기 위한 여러 단계를 스스로 판단해 실행하는 AI.
-</div>
+많은 분들이 AI라고 하면 챗GPT를 먼저 떠올립니다!
+2022년 가장 먼저 AI 타이틀을 달고 출시되어 큰 화제를 모으면서 AI 챗봇 붐을 이끈 계기가 되었죠! 
 
-비슷한 개념으로 생각해왔지만, 전혀 달랐던 두 단어!
-앞으로 6개월 동안 새로운 결과물을 만들고 끝-이 아닌 목표에 도달하기 위해 스스로 판단하고 실행하는
-에이전트 AI를 깊숙~히 배워본다. 나의 강력한 친구이자 무기😁
+그러나 4년여간 AI가 엄청난 속도로 발전해 왔고, 지금은 형태와 종류가 많아졌어요😆
 
-## 컴퓨터처럼 사고하자, 컴퓨팅 사고법!
+크게는 2가지! 우리가 가장 많이 쓰고 있는 웹브라우저형과 터미널형으로 아래처럼 나눠볼수 있어요.
 
-AI에게 두리뭉실하게 일을 시키면 그 결과도 두리뭉실하게 돌아옵니다.
-컴퓨터에게 일을 시키려면, 컴퓨터 방식으로!
+<img width="980" height="1000" alt="table_2" src="https://github.com/user-attachments/assets/a798bb7b-9f95-4ac6-93a0-10356634a539" />
 
-* 코딩은 사고의 문법임!(컴퓨터는 문장을 이해하지 않아요)<br>
-=> '무엇을, 어떤 순서로, 어떤 조건에서'를 명확히 알려줘야함
-
-<span style="color:blue">(예) 매주 월요일 진행하는 주보회의록 자동화 해보자!</span><br> 
-     * 주보회의록 작성해줘(X)<br> 
-     => 아래처럼 4단계 컴퓨터 사고법으로!!
 
 <div class="step-list">
   <div class="step-item">
