@@ -21,7 +21,7 @@ banner_large: true
 크게는 2가지!<br>
 우리가 가장 많이 쓰고 있는 웹브라우저형과 터미널형으로 아래처럼 나눠볼수 있어요.
 * <strong>웹브라우저</strong>(챗GPT, Claude 등) = 대화하며 답을 받는 용도 (가장많이 쓰임)
-* <strong>터미널</strong>(Claude Code, Open Code 등) = 내 컴퓨터의 실제 파일과 코드 생성 및 수정 가능
+* <strong>DESKTOP-터미널</strong>(Claude Code, Open Code 등) = 내 컴퓨터의 실제 파일과 코드 생성 및 수정 가능
 <strong> => 터미널에서 AI를 사용하면 더욱 강력하겠죠! </strong>
 
 <div class="compare-table">
@@ -59,65 +59,24 @@ banner_large: true
 </div>
 
 
-<div class="step-list">
-  <div class="step-item">
-    <span class="step-num">1</span>
-    <div class="step-body">
-      <strong>분해</strong>
-      <p>통으로 던지기 보단, 조각해서 나누기<br>
-          
-<strong><u>(회의개요, 참석자, 안건, 주요발언, 결정사항, 후속조치로 나눠줘)</u></strong></p>
-    </div>
-  </div>
-  <div class="step-item">
-    <span class="step-num">2</span>
-    <div class="step-body">
-      <strong>패턴인식(공통점)</strong>
-      <p>쪼갠 조각에서 반복과 공통점 찾기<br>
-          
-<strong><u>(중복된 의견, 공통된 문제, 찬반 입장 찾기)</u></strong></p>
-    </div>
-  </div>
-  <div class="step-item">
-    <span class="step-num">3</span>
-    <div class="step-body">
-      <strong>추상화(핵심)</strong>
-      <p>핵심만 남기고 나머지는 버리기<br>
-          
-<strong><u>(인사말이나 반복 발언 등 불필요한 내용은 제외하고, 핵심 쟁점과 결론만)</u></strong></p>
-    </div>
-  </div>
-  <div class="step-item">
-    <span class="step-num">4</span>
-    <div class="step-body">
-      <strong>알고리즘(순서)</strong>
-      <p>문제 푸는 단계별 순서 정하기<br>
-          
-<strong><u>(녹취확인 → 안건별 분류 → 핵심의견 요약 → 결정사항 정리 → 담당자 확인 순서로)</u></strong></p>
-    </div>
-  </div>
-</div>
+## 강력한 AI를 내 컴퓨터에서도 사용해보려면! 😁
 
-[4단계는 각각 별개가 아닌 한 사이클로 이루어져 계속 진행됨]
- => 훨씬 퀄리티 좋은 결과물이 만들어짐!
+아래 4가지 도구는 설치해야해
 
-## 컴퓨팅 사고법이 만능은 아니다⛔
+(1) Claude Code : 컴퓨터 언어로 번역해 주는 통역기
+(2) 터미널 : 통역기의 화면(글자로 명령을 내리는 창)
+(3) Node.js(+ npm)와 uv : 컴퓨터 언어(자바스크립트-파이썬)가 돌아가게 해주는 엔진
+(4) Git : 변경 이력을 남기는 장치
 
-컴퓨팅 사고법이 논리적이고 합리적으로 보이지만, 모든 문제를 다 풀어주지는 못한다.
-특히, 전문가의 노하우(사람의 직감, 경험치), 창의, 가치판단 등은 사람의 몫이다.
-AI는 신도 아니고, 그저 우리의 조력자일뿐 모든 판단과 책임은 사람에게 있다.<br> 
-(말의 고삐를 AI에게 쥐어주는 위험한 일은 하지말자!)
+<img width="1812" height="687" alt="image" src="https://github.com/user-attachments/assets/eb9f9f46-403f-45a7-bd0e-e9d0f389b24a" />
 
 ## 오늘의 한줄 정리!
 
-컴퓨팅 사고법이 있다는 것이 신선했고(?)(사람처럼.. 사고를 하네!), 뼛속까지 문과인인 나에게
-'분해-패턴인식-추상화-알고리즘' 같이 딱딱한 단어들이 뇌속에 한동안 떠도는 느낌이 들었다.<br> 
-(잉? 이름부터 딱딱하고 컴퓨터가 어떻게 이렇게 작동한다는건지 하나도 감이 안오는 것이다.
-머릿속으로 절대 그려지지가 않아ㅠ 난 컴맹 맞았네. 쇼핑만 잘하는 컴맹이였어😭)
+강력한 AI비서를 내 컴퓨터에 설치해 내가 소통하면서 파일을 만들고 수정하고 삭제 할 수 있다는 사실이 놀라웠고 흥미로웠다!
+꼭 컴퓨터를 엄청 잘하는 직원을 아래에 두고 내가 말로만 지시하는것 같잖아🐱 너무 든든하고 신났다!
 
-하지만, 후딱 정신을 차리고 컴퓨터와 대화를 잘 해서 내가 원하는 결과를 더 빨리 좋은 퀄리티로 얻기 위해 컴퓨터의 
-사고방식을 이해하는 것이 중요하다고 생각했다. 6개월 동안 나도 컴퓨터처럼 사고하도록 노력해봐야겠다:)
-'분해-패턴인식-추상화-알고리즘'.. 6개월 뒤엔 컴퓨터와 동기화 되어 있을지도😆
+클라우드 코드 프로그램을 컴퓨터에 다운받고 위의 프로그램 설치도 부탁하면 READY!!
 
-<img width="725" height="249" alt="image" src="https://github.com/user-attachments/assets/8bf00069-5abf-408e-b324-9ea21ace941d" />
+이제부터가 진짜시작인것 같다✌️
+
 
