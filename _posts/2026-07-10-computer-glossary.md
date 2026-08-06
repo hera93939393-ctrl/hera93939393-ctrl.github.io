@@ -38,3 +38,9 @@ thumb: "https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb
 (11) <strong>fork</strong> = 다른 사람의 저장소를 내 계정으로 복제해서 독립적으로 관리하는 것 (GitHub 웹 기능)<br>
 (12) <strong>pull request (PR)</strong> = 내가 작업한 브랜치를 원본 저장소에 합쳐달라고 요청하는 것<br>
 
+##  '컴퓨터 명령 FLOW' 용어
+
+(1) <strong>터미널(terminal)t</strong> = macOS Terminal, iTerm2, VS Code 내장 터미널 등은 그 장치를 화면 속에서 재현한 "터미널 에뮬레이터"임. 창을 띄우고 키 입력을 전달할 뿐, 명령의 뜻을 직접 해석하지X
+(2) <strong>셸(shell)</strong> = 운영체제의 핵심(커널)을 감싼 "껍데기<br> 사람이 입력한 명령을 해석해 프로그램을 실행시키고 커널과 이어주는 역할을 해요. bash, zsh 등이 대표적인 셸의 종류임
+(3) <strong>커널(kernel)</strong> = "알맹이"라는 뜻<br> CPU·메모리·파일·네트워크 같은 자원을 관리하는 운영체제의 중심부
+(4) <strong>프롬프트(prompt)</strong> = "재촉하다"라는 뜻<br> 셸이 "입력 기다리는 중"임을 알리는 화면 표시( $, % 같은 모양)
