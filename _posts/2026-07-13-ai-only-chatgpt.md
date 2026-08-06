@@ -27,31 +27,33 @@ banner_large: true
 <div class="compare-table">
 <table>
   <thead>
-    <tr><th>구분</th><th>종류</th></tr>
+    <tr><th>구분</th><th>종류</th><th>특징</th></tr>
   </thead>
   <tbody>
     <tr class="group-web">
       <td class="category-cell" rowspan="9">웹브라우저<small>(대화하며 답을 받는 용도)</small></td>
       <td>ChatGPT (OpenAI)</td>
+      <td>가장 널리 쓰이는 대화형 AI, 다양한 플러그인·GPT 생태계</td>
     </tr>
-    <tr class="group-web"><td>Claude (Anthropic)</td></tr>
-    <tr class="group-web"><td>Gemini (Google)</td></tr>
-    <tr class="group-web"><td>Perplexity</td></tr>
-    <tr class="group-web"><td>Grok (xAI)</td></tr>
-    <tr class="group-web"><td>Copilot (Microsoft)</td></tr>
-    <tr class="group-web"><td>Meta AI</td></tr>
-    <tr class="group-web"><td>DeepSeek</td></tr>
-    <tr class="group-web"><td>Le Chat (Mistral)</td></tr>
+    <tr class="group-web"><td>Claude (Anthropic)</td><td>긴 문서 처리와 신중한 답변에 강점, 대화 위주</td></tr>
+    <tr class="group-web"><td>Gemini (Google)</td><td>구글 검색·지메일·문서 등과 연동이 잘 됨</td></tr>
+    <tr class="group-web"><td>Perplexity</td><td>답변마다 출처 링크를 보여주는 검색형 챗봇</td></tr>
+    <tr class="group-web"><td>Grok (xAI)</td><td>X(트위터) 연동, 실시간 트렌드 이슈에 강함</td></tr>
+    <tr class="group-web"><td>Copilot (Microsoft)</td><td>오피스·윈도우·엣지에 통합된 챗봇</td></tr>
+    <tr class="group-web"><td>Meta AI</td><td>페이스북·인스타그램·왓츠앱에 통합</td></tr>
+    <tr class="group-web"><td>DeepSeek</td><td>중국산, 저비용·고성능으로 화제</td></tr>
+    <tr class="group-web"><td>Le Chat (Mistral)</td><td>프랑스 AI 기업 미스트랄의 챗봇</td></tr>
     <tr class="group-terminal">
       <td class="category-cell" rowspan="7">터미널<small>(내 컴퓨터의 실제 파일과 코드를 직접 만들고 고치게 시키는 용도)</small></td>
       <td>Claude Code (Anthropic)</td>
+      <td>내 컴퓨터에 설치해 파일·코드를 직접 생성/수정</td>
     </tr>
-    <tr class="group-terminal"><td>Codex CLI (OpenAI)</td></tr>
-    <tr class="group-terminal"><td>Gemini CLI (Google)</td></tr>
-    <tr class="group-terminal"><td>Cursor / Windsurf</td></tr>
-    <tr class="group-terminal"><td>Aider</td></tr>
-    <tr class="group-terminal"><td>Amazon Q Developer CLI</td></tr>
-    <tr class="group-terminal"><td>OpenCode</td></tr>
+    <tr class="group-terminal"><td>Codex CLI (OpenAI)</td><td>클라우드 코드와 가장 직접적인 경쟁 도구</td></tr>
+    <tr class="group-terminal"><td>Gemini CLI (Google)</td><td>제미나이를 터미널에서 쓰는 버전</td></tr>
+    <tr class="group-terminal"><td>Cursor / Windsurf</td><td>원래는 편집기(IDE)형, 최근 터미널·에이전트 기능도 강화</td></tr>
+    <tr class="group-terminal"><td>Aider</td><td>오픈소스, 초기부터 유명한 터미널 AI 페어 프로그래밍 도구</td></tr>
+    <tr class="group-terminal"><td>Amazon Q Developer CLI</td><td>AWS가 내놓은 터미널 코딩 에이전트</td></tr>
+    <tr class="group-terminal"><td>OpenCode</td><td>오픈소스 AI 코딩 에이전트, 터미널 전용</td></tr>
   </tbody>
 </table>
 </div>
