@@ -68,7 +68,53 @@ banner_large: true
 (3) <strong>Node.js(+ npm)와 uv</strong> : 컴퓨터 언어(자바스크립트-파이썬)가 돌아가게 해주는 엔진<br>
 (4) <strong>Git</strong> : 변경 이력을 남기는 장치<br>
 
-<img width="1812" height="687" alt="image" src="https://github.com/user-attachments/assets/eb9f9f46-403f-45a7-bd0e-e9d0f389b24a" />
+### 🎇 AI에게 코딩 시키는 과정, 6단계로 보기
+
+<div class="flow-diagram">
+  <div class="flow-step">
+    <div class="flow-num">1</div>
+    <div class="flow-icon c1">🙋</div>
+    <div class="flow-title">나</div>
+    <div class="flow-desc">한국어로<br>"이거 만들어줘" 라고 말함</div>
+  </div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-step">
+    <div class="flow-num">2</div>
+    <div class="flow-icon c2">💻</div>
+    <div class="flow-title">터미널</div>
+    <div class="flow-desc">그 말이 화면에<br>글자로 나타남</div>
+  </div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-step">
+    <div class="flow-num">3</div>
+    <div class="flow-icon c3">🌐</div>
+    <div class="flow-title">Claude Code</div>
+    <div class="flow-desc">한국어를 알아듣고<br>번역해주는 통역가</div>
+  </div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-step">
+    <div class="flow-num">4</div>
+    <div class="flow-icon c4">🗣️</div>
+    <div class="flow-title">JS·Python</div>
+    <div class="flow-desc">통역가가 실제로<br>구사하는 언어</div>
+  </div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-step">
+    <div class="flow-num">5</div>
+    <div class="flow-icon c5">🔧</div>
+    <div class="flow-title">Node·uv</div>
+    <div class="flow-desc">그 언어가 돌아가게<br>해주는 엔진</div>
+  </div>
+  <div class="flow-arrow">→</div>
+  <div class="flow-step">
+    <div class="flow-num">6</div>
+    <div class="flow-icon c6">🌍</div>
+    <div class="flow-title">컴퓨터</div>
+    <div class="flow-desc">진짜로 실행해서<br>결과를 돌려줌</div>
+  </div>
+</div>
+<p class="flow-note">↩ 6번 결과가 다시 1번(나)에게 보여지고, 이상하면 또 말합니다 — 이 반복이 계속됩니다</p>
+<p class="flow-git-note">🗃️ Git — 이 전체 과정을 계속 기록해서, 잘못되면 이전 상태로 되돌릴 수 있게 함</p>
 
 ## 오늘의 한줄 정리!
 
