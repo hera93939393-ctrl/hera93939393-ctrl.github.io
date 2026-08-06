@@ -40,7 +40,16 @@ thumb: "https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb
 
 ##  '컴퓨터 명령 FLOW' 용어
 
-(1) <strong>터미널(terminal)t</strong> = macOS Terminal, iTerm2, VS Code 내장 터미널 등은 그 장치를 화면 속에서 재현한 "터미널 에뮬레이터"임. 창을 띄우고 키 입력을 전달할 뿐, 명령의 뜻을 직접 해석하지X
-(2) <strong>셸(shell)</strong> = 운영체제의 핵심(커널)을 감싼 "껍데기<br> 사람이 입력한 명령을 해석해 프로그램을 실행시키고 커널과 이어주는 역할을 해요. bash, zsh 등이 대표적인 셸의 종류임
-(3) <strong>커널(kernel)</strong> = "알맹이"라는 뜻<br> CPU·메모리·파일·네트워크 같은 자원을 관리하는 운영체제의 중심부
-(4) <strong>프롬프트(prompt)</strong> = "재촉하다"라는 뜻<br> 셸이 "입력 기다리는 중"임을 알리는 화면 표시( $, % 같은 모양)
+(1) <strong>터미널(terminal)t</strong> = macOS Terminal, iTerm2, VS Code 내장 터미널 등은 그 장치를 화면 속에서 재현한 "터미널 에뮬레이터"<br>
+창을 띄우고 키 입력을 전달할 뿐, 명령의 뜻을 직접 해석하지X<br>
+(2) <strong>셸(shell)</strong> = 운영체제의 핵심(커널)을 감싼 "껍데기<br> 
+사람이 입력한 명령을 해석해 프로그램을 실행시키고 커널과 이어주는 역할을 해요. bash, zsh 등이 대표적인 셸의 종류임<br>
+(3) <strong>커널(kernel)</strong> = "알맹이"라는 뜻<br> CPU·메모리·파일·네트워크 같은 자원을 관리하는 운영체제의 중심부<br>
+(4) <strong>프롬프트(prompt)</strong> = "재촉하다"라는 뜻<br> 셸이 "입력 기다리는 중"임을 알리는 화면 표시( $, % 같은 모양)<br>
+
+
+
+
+
+
+
