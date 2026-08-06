@@ -9,7 +9,7 @@ thumb: "https://github.com/user-attachments/assets/5a9ac878-1937-4e31-a69b-d1170
 banner_large: true
 ---
 
-<p class="lead">생성형AI는 다양해요!</p>
+<p class="lead">AI 종류는 다양해요!</p>
 
 ## 생성형AI의 2가지 Version!
 
