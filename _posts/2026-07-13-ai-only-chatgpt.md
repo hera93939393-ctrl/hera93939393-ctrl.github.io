@@ -18,7 +18,11 @@ banner_large: true
 
 그러나 4년여간 AI가 엄청난 속도로 발전해 왔고, 지금은 형태와 종류가 많아졌어요😆
 
-크게는 2가지! 우리가 가장 많이 쓰고 있는 웹브라우저형과 터미널형으로 아래처럼 나눠볼수 있어요.
+크게는 2가지!<br>
+우리가 가장 많이 쓰고 있는 웹브라우저형과 터미널형으로 아래처럼 나눠볼수 있어요.
+* <strong>웹브라우저</strong>(챗GPT, Claude 등) = 대화하며 답을 받는 용도 (가장많이 쓰임)
+* <strong>터미널</strong>(Claude Code, Open Code 등) = 내 컴퓨터의 실제 파일과 코드 생성 및 수정 가능
+<strong> => 터미널에서 AI를 쓸줄 알아야 진짜 AI를 쓰는거겠죠! </strong>
 
 <div class="compare-table">
 <table>
