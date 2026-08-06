@@ -4,8 +4,8 @@ title: "ONLY AI=챗GPT??"
 date: 2026-07-13
 categories: 공부기록
 icon: "✌️"
-image: "<img width="480" height="264" alt="RobotNoGIFbyEsZGiphyWorld" src="https://github.com/user-attachments/assets/a8344f4f-a69a-43cf-8b34-7d560b190bf2" />"
-thumb: "<img width="480" height="366" alt="ArtificialIntelligenceAiGIFbyNeighborlyNotary®" src="https://github.com/user-attachments/assets/5a9ac878-1937-4e31-a69b-d1170ffb8700" />"
+image: "https://github.com/user-attachments/assets/a8344f4f-a69a-43cf-8b34-7d560b190bf2"
+thumb: "https://github.com/user-attachments/assets/5a9ac878-1937-4e31-a69b-d1170ffb8700"
 banner_large: true
 ---
 
