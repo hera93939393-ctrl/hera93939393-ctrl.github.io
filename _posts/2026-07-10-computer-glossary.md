@@ -14,7 +14,7 @@ thumb: "https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb
 
 (1) <strong>mkdir</strong> = make directory, 새 폴더를 만드는 명령어<br>
 예> mkdir project (project라는 폴더 만들어줘!)<br>
-(2) <strong>cd</strong> = 지정한 폴도러 이동하는 명령어<br>
+(2) <strong>cd</strong> = 지정한 폴더로 이동하는 명령어, 상위폴더로 가~<br>
  예> cd project (project 폴더로 이동해줘!)<br>
 (3) <strong>pwd</strong> = 현재 위치한 경로를 출력<br>
 (4) <strong>touch</strong> = 빈 파일을 새로 만들거나 파일의 수정 시간을 갱신<br>
