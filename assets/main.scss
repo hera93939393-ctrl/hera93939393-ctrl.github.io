@@ -205,6 +205,58 @@ a:hover {
   line-height: 1.6;
 }
 
+.compare-table {
+  margin: 20px 0;
+  overflow-x: auto;
+}
+.compare-table table {
+  width: 100%;
+  min-width: 420px;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden;
+  font-size: 14px;
+}
+.compare-table th {
+  background: var(--ink);
+  color: #fff;
+  padding: 10px 14px;
+  text-align: center;
+  font-weight: 700;
+}
+.compare-table td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+}
+.compare-table .category-cell {
+  text-align: center;
+  font-weight: 700;
+  vertical-align: middle;
+  width: 34%;
+  line-height: 1.5;
+}
+.compare-table .category-cell small {
+  display: block;
+  margin-top: 4px;
+  font-weight: 500;
+  color: var(--muted);
+  font-size: 12px;
+}
+.compare-table .group-web td {
+  background: #eaf6fb;
+}
+.compare-table .group-web .category-cell {
+  background: #d7edf7;
+  border-right: 1px solid #cfe8f3;
+}
+.compare-table .group-terminal td {
+  background: #fff9db;
+}
+.compare-table .group-terminal .category-cell {
+  background: #f5ecc0;
+  border-right: 1px solid #f0e2a3;
+}
+
 .post-content {
   line-height: 1.8;
 }

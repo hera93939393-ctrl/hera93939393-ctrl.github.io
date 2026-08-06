@@ -20,7 +20,37 @@ banner_large: true
 
 크게는 2가지! 우리가 가장 많이 쓰고 있는 웹브라우저형과 터미널형으로 아래처럼 나눠볼수 있어요.
 
-<img width="980" height="1000" alt="table_2" src="https://github.com/user-attachments/assets/a798bb7b-9f95-4ac6-93a0-10356634a539" />
+<div class="compare-table">
+<table>
+  <thead>
+    <tr><th>구분</th><th>종류</th></tr>
+  </thead>
+  <tbody>
+    <tr class="group-web">
+      <td class="category-cell" rowspan="9">웹브라우저<small>(대화하며 답을 받는 용도)</small></td>
+      <td>ChatGPT (OpenAI)</td>
+    </tr>
+    <tr class="group-web"><td>Claude (Anthropic)</td></tr>
+    <tr class="group-web"><td>Gemini (Google)</td></tr>
+    <tr class="group-web"><td>Perplexity</td></tr>
+    <tr class="group-web"><td>Grok (xAI)</td></tr>
+    <tr class="group-web"><td>Copilot (Microsoft)</td></tr>
+    <tr class="group-web"><td>Meta AI</td></tr>
+    <tr class="group-web"><td>DeepSeek</td></tr>
+    <tr class="group-web"><td>Le Chat (Mistral)</td></tr>
+    <tr class="group-terminal">
+      <td class="category-cell" rowspan="7">터미널<small>(내 컴퓨터의 실제 파일과 코드를 직접 만들고 고치게 시키는 용도)</small></td>
+      <td>Claude Code (Anthropic)</td>
+    </tr>
+    <tr class="group-terminal"><td>Codex CLI (OpenAI)</td></tr>
+    <tr class="group-terminal"><td>Gemini CLI (Google)</td></tr>
+    <tr class="group-terminal"><td>Cursor / Windsurf</td></tr>
+    <tr class="group-terminal"><td>Aider</td></tr>
+    <tr class="group-terminal"><td>Amazon Q Developer CLI</td></tr>
+    <tr class="group-terminal"><td>OpenCode</td></tr>
+  </tbody>
+</table>
+</div>
 
 
 <div class="step-list">
