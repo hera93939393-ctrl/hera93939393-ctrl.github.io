@@ -12,9 +12,9 @@ thumb: "https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb
 
 ## '터미널' 용어
 
-(1) <strong>mkdir</strong> = make directory, 새 디렉토리(폴더)를 만드는 명령어<br>
+(1) <strong>mkdir</strong> = make directory, 새 폴더를 만드는 명령어<br>
 예> mkdir project (project라는 폴더 만들어줘!)<br>
-(2) <strong>cd</strong> = change directory, 디렉토리를 이동하는 명령어<br>
+(2) <strong>cd</strong> = 지정한 폴도러 이동하는 명령어<br>
  예> cd project (project 폴더로 이동해줘!)<br>
 (3) <strong>pwd</strong> = 현재 위치한 경로를 출력<br>
 (4) <strong>touch</strong> = 빈 파일을 새로 만들거나 파일의 수정 시간을 갱신<br>
@@ -22,6 +22,9 @@ thumb: "https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb
 (5) <strong>echo</strong>= 입력한 내용을 화면에 그대로 출력해줌<br>
 (6) <strong>which</strong>= 그 프로그램이 실제로 어느 위치에 있어?<br>
  예> which python (파이썬 어느경로에 있는지 알려줘)
+(7) <strong>ls</strong>= 현재 폴더 안의 파일 및 폴더 이름 보여줘<br>
+(8) <strong>rm</strong>= 파일 삭제 명령어<br>
+
 
 ##  'GitHub / Git' 용어
 
