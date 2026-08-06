@@ -21,7 +21,7 @@ thumb: "https://github.com/user-attachments/assets/b36098fe-d669-468c-9a1a-aa2eb
  예> touch README.md
 (5) <strong>echo</strong>= 입력한 내용을 화면에 그대로 출력해줌<br>
 (6) <strong>which</strong>= 그 프로그램이 실제로 어느 위치에 있어?<br>
- 예> which python (파이썬 어느경로에 있는지 알려줘)
+ 예> which python (파이썬 어느경로에 있는지 알려줘)<br>
 (7) <strong>ls</strong>= 현재 폴더 안의 파일 및 폴더 이름 보여줘<br>
 (8) <strong>rm</strong>= 파일 삭제 명령어<br>
 
