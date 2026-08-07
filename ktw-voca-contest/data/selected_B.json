@@ -1,0 +1,6386 @@
+{
+ "BA": [
+  {
+   "word": "because of",
+   "meaning": "~때문에",
+   "section": "숙어암기",
+   "day": 7,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "practice",
+   "meaning": "연습; 실행, 실천; 연습하다",
+   "section": "어휘 끝 중학필수 Unit 15",
+   "day": 7,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "bookshelf",
+   "meaning": "책꽂이, 책장",
+   "section": "어휘 끝 중학필수 Unit 7",
+   "day": 3,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "vegetable",
+   "meaning": "채소, 야채",
+   "section": "어휘 끝 중학필수 Unit 8",
+   "day": 3,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "exercise",
+   "meaning": "운동, 연습; 운동하다",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "dictionary",
+   "meaning": "사전",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "university",
+   "meaning": "대학교",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "question",
+   "meaning": "질문, 의문; 질문하다",
+   "section": "어휘 끝 중학필수 Unit 12",
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "circulate",
+   "meaning": "순환하다, 순환시키다",
+   "section": "Subject Link 5 unit 9,10",
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "synthetic",
+   "meaning": "합성한, 인조의",
+   "section": "Subject Link 5 unit 9,10",
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "thanks to",
+   "meaning": "…의 덕분에",
+   "section": "Subject Link 5 unit 9,10",
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "high-tech",
+   "meaning": "첨단 기술의",
+   "section": "Subject Link 5 unit 9,10",
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "basketball",
+   "meaning": "농구",
+   "section": "어휘 끝 중학필수 Unit 15",
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "strength",
+   "meaning": "힘, 기운; 강점",
+   "section": "어휘 끝 중학필수 Unit 15",
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "as it were",
+   "meaning": "말하자면",
+   "section": "숙어암기",
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "carry out",
+   "meaning": "수행하다",
+   "section": "숙어암기",
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "excellent",
+   "meaning": "훌륭한, 탁월한",
+   "section": "어휘 끝 중학필수 Unit 17",
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "display",
+   "meaning": "전시하다, 진열하다; 전시, 진열",
+   "section": "어휘 끝 중학필수 Unit 18",
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "introduce",
+   "meaning": "도입하다",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 9,
+   "tier": 3
+  },
+  {
+   "word": "encourage",
+   "meaning": "권장[장려]하다",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 9,
+   "tier": 3
+  },
+  {
+   "word": "head for",
+   "meaning": "~을 향하다",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "hurry up",
+   "meaning": "서두르다",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "that is",
+   "meaning": "즉, 다시 말해서",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "behavior",
+   "meaning": "행위, 행동",
+   "section": "Subject Link 5 unit 3,4",
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "otherwise",
+   "meaning": "(*문장 전체를 수식하여) (만약) 그렇지 않으면",
+   "section": "Subject Link 5 unit 3,4",
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "umbrella",
+   "meaning": "우산, 양산",
+   "section": "어휘 끝 중학필수 Unit 7",
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "evidence",
+   "meaning": "증거, 근거",
+   "section": "Subject Link 5 unit 5,6",
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "contact",
+   "meaning": "연락; 접촉; 연락하다",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "ordinary",
+   "meaning": "평범한, 보통의",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "regular",
+   "meaning": "규칙적인,  정기적인; 보통의",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "magazine",
+   "meaning": "잡지, 매거진",
+   "section": "어휘 끝 중학필수 Unit 10",
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "predator",
+   "meaning": "[생물] 포식자, 포식[식육] 동물",
+   "section": "Subject Link 5 unit 6,7",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "annoying",
+   "meaning": "남을 괴롭히는, 짜증나는",
+   "section": "Subject Link 5 unit 6,7",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "take off",
+   "meaning": "벗다",
+   "section": "숙어암기",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "classroom",
+   "meaning": "교실",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "vacation",
+   "meaning": "방학; 휴가",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "homeroom",
+   "meaning": "반, 교실",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "uniform",
+   "meaning": "유니폼, 제복; 교복",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "finish",
+   "meaning": "끝나다, 마치다; 마지막 부분, 끝",
+   "section": "어휘 끝 중학필수 Unit 12",
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "nickname",
+   "meaning": "별명, 애칭",
+   "section": "어휘 끝 중학필수 Unit 13",
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "apologize",
+   "meaning": "사과하다",
+   "section": "어휘 끝 중학필수 Unit 13",
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "manner",
+   "meaning": "태도; 예의; 방법, 방식",
+   "section": "어휘 끝 중학필수 Unit 13",
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "remember",
+   "meaning": "기억하다, 기억나다",
+   "section": "어휘 끝 중학필수 Unit 14",
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "wonder",
+   "meaning": "궁금하다; 크게 놀라다; 감탄,  경이(감)",
+   "section": "어휘 끝 중학필수 Unit 14",
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "familiar",
+   "meaning": "익숙한, 친숙한",
+   "section": "어휘 끝 중학필수 Unit 14",
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "pollution",
+   "meaning": "오염 물질",
+   "section": "Subject Link 5 unit 9,10",
+   "day": 7,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "helpless",
+   "meaning": "무력한, 속수무책인",
+   "section": "Subject Link 5 unit 9,10",
+   "day": 7,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "owing to",
+   "meaning": "~때문에",
+   "section": "숙어암기",
+   "day": 7,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "football",
+   "meaning": "축구, 미식축구",
+   "section": "어휘 끝 중학필수 Unit 15",
+   "day": 7,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "whistle",
+   "meaning": "호루라기; 휘파람;",
+   "section": "어휘 끝 중학필수 Unit 15",
+   "day": 7,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "celebrity",
+   "meaning": "유명[저명] 인사",
+   "section": "Subject Link 5 unit 10,11",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "material",
+   "meaning": "옷감, 직물",
+   "section": "Subject Link 5 unit 10,11",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "as usual",
+   "meaning": "평소처럼",
+   "section": "숙어암기",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "delicious",
+   "meaning": "아주 맛있는",
+   "section": "어휘 끝 중학필수 Unit 17",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "prepare",
+   "meaning": "준비하다; 대비하다, 각오하다",
+   "section": "어휘 끝 중학필수 Unit 17",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "welcome",
+   "meaning": "환영하다; 환영; 반가운",
+   "section": "어휘 끝 중학필수 Unit 17",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "breakfast",
+   "meaning": "아침 식사",
+   "section": "어휘 끝 중학필수 Unit 17",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "musical",
+   "meaning": "뮤지컬; 음악의, 음악적인",
+   "section": "어휘 끝 중학필수 Unit 18",
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "prevent",
+   "meaning": "(사람·물건이) […하는 것을] 막다, 방해하다",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "deposit",
+   "meaning": "(은행) 예금, 예치금",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "process",
+   "meaning": "과정, 공정",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "interest",
+   "meaning": "[U] 이자",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "criminal",
+   "meaning": "범죄자",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "depend",
+   "meaning": "…에 달려 있다, 좌우되다  (on, upon)",
+   "section": "Subject Link 5 unit 2,3",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "in time",
+   "meaning": "시간에 알맞게",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "on time",
+   "meaning": "정시에",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "daughter",
+   "meaning": "딸",
+   "section": "어휘 끝 중학필수 Unit 6",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "care",
+   "meaning": "염려하다, 돌보다; 돌봄; 걱정,",
+   "section": "어휘 끝 중학필수 Unit 6",
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "attract",
+   "meaning": "끌다, 끌어당기다",
+   "section": "Subject Link 5 unit 3,4",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "scissors",
+   "meaning": "가위",
+   "section": "어휘 끝 중학필수 Unit 7",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "calendar",
+   "meaning": "달력",
+   "section": "어휘 끝 중학필수 Unit 7",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "battery",
+   "meaning": "건전지, 배터리",
+   "section": "어휘 끝 중학필수 Unit 7",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "board",
+   "meaning": "판자, 판; 위원회,탑승하다",
+   "section": "어휘 끝 중학필수 Unit 7",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "kitchen",
+   "meaning": "부엌, 주방",
+   "section": "어휘 끝 중학필수 Unit 8",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "pepper",
+   "meaning": "후추; 고추, 피망",
+   "section": "어휘 끝 중학필수 Unit 8",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "honey",
+   "meaning": "꿀, 벌꿀; 여보, 자기",
+   "section": "어휘 끝 중학필수 Unit 8",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "injured",
+   "meaning": "상처를 입은, 다친",
+   "section": "Subject Link 5 unit 5,6",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "painful",
+   "meaning": "아픈, 고통스러운",
+   "section": "Subject Link 5 unit 5,6",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "period",
+   "meaning": "(생애·역사 등의) 기간, 시기; 시대",
+   "section": "Subject Link 5 unit 5,6",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "control",
+   "meaning": "관리하다, 통제하다",
+   "section": "Subject Link 5 unit 5,6",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "no more",
+   "meaning": "더 이상 ~가 아니다",
+   "section": "숙어암기",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "routine",
+   "meaning": "일과; 일상적인",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "shower",
+   "meaning": "샤워, 샤워기; 샤워를 하다",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "repair",
+   "meaning": "고치다, 수리하다; 수리",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "laundry",
+   "meaning": "세탁물, 빨래",
+   "section": "어휘 끝 중학필수 Unit 9",
+   "day": 4,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "put off",
+   "meaning": "연기하다",
+   "section": "숙어암기",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "example",
+   "meaning": "예, 보기",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "graduate",
+   "meaning": "졸업하다",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "class",
+   "meaning": "학급, 반; 수업; 계급",
+   "section": "어휘 끝 중학필수 Unit 11",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "survive",
+   "meaning": "(고민·역경 등을) 견디다, …을 극복하다",
+   "section": "Subject Link 5 unit 7,8",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "crowded",
+   "meaning": "혼잡한, 가득 찬[with]",
+   "section": "Subject Link 5 unit 7,8",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "leather",
+   "meaning": "가죽, 무두질한 가죽(※skin은 막 벗긴 동물의 가죽)",
+   "section": "Subject Link 5 unit 7,8",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "cruelly",
+   "meaning": "잔인하게, 무자비하게",
+   "section": "Subject Link 5 unit 7,8",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "unlike",
+   "meaning": "…과 닮지 않은; …과는 다른, …과 다르게",
+   "section": "Subject Link 5 unit 7,8",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "put out",
+   "meaning": "~을 끄다",
+   "section": "숙어암기",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "show up",
+   "meaning": "나타나다",
+   "section": "숙어암기",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "run for",
+   "meaning": "~에 입후보하다",
+   "section": "숙어암기",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "promise",
+   "meaning": "약속하다; 약속",
+   "section": "어휘 끝 중학필수 Unit 13",
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "several",
+   "meaning": "몇몇의(수·종류가 셋 이상 있는 경우에 씀)",
+   "section": "Subject Link 5 unit 3,4",
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "receive",
+   "meaning": "…을 받다",
+   "section": "Subject Link 5 unit 3,4",
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  }
+ ],
+ "HA": [
+  {
+   "word": "retrieval",
+   "meaning": "회복, 만회, 복구; 검색",
+   "section": "능률 VOCA 수능 실전편 Day 1",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "biological",
+   "meaning": "생물학의, 생물학적인; 생물체의",
+   "section": "능률 VOCA 수능 실전편 Day 1",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "breakdown",
+   "meaning": "고장; 붕괴, 실패; 분해",
+   "section": "능률 VOCA 수능 실전편 Day 1",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "approximate",
+   "meaning": "대략적인, 근사치적인",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "intermediate",
+   "meaning": "중간적인",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "come along",
+   "meaning": "오다, 생기다",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "reciprocity",
+   "meaning": "호혜성, 상호 이익",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "anthropology",
+   "meaning": "인류학",
+   "section": "능률 VOCA 수능 실전편 Day 3",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "precisely",
+   "meaning": "정확히, 정밀하게; 바로, 꼭",
+   "section": "능률 VOCA 수능 실전편 Day 3",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "hibernation",
+   "meaning": "동면, 겨울잠",
+   "section": "능률 VOCA 수능 실전편 Day 3",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "make up for",
+   "meaning": "~을 보상하다, 만회하다",
+   "section": "능률 VOCA 수능 실전편 Day 3",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "identify ~as ...",
+   "meaning": "~을 …이라고 여기다",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "authority",
+   "meaning": "권위, 권한; 당국; 권위자",
+   "section": "능률 VOCA 수능 실전편 Day 4",
+   "day": 5,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "consolidate",
+   "meaning": "(권력 등을) 강화하다; 통합[합병]하다",
+   "section": "능률 VOCA 수능 실전편 Day 4",
+   "day": 5,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "exclusive",
+   "meaning": "독점적인; 배타적인; 고급의, 고가의",
+   "section": "능률 VOCA 수능 고난도 Day 7",
+   "day": 8,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "misbehavior",
+   "meaning": "나쁜 행실; 부정행위",
+   "section": "능률 VOCA 수능 고난도 Day 7",
+   "day": 8,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "personality",
+   "meaning": "성격",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "contemplate",
+   "meaning": "고려하다",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "sympathetic",
+   "meaning": "호감이 가는",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "potentially",
+   "meaning": "잠재적으로",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "perspective",
+   "meaning": "관점",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "distinguish",
+   "meaning": "구별하다",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "ultimately",
+   "meaning": "결국, 궁극적으로",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "credibility",
+   "meaning": "신뢰성",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "additional",
+   "meaning": "추가의, 부가적인",
+   "section": "능률 VOCA 수능 실전편 Day 1",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "accomplish",
+   "meaning": "성취하다, 해내다",
+   "section": "능률 VOCA 수능 실전편 Day 1",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "appeal to",
+   "meaning": "~에게 호소[간청]하다; ~의 흥미를 끌다",
+   "section": "능률 VOCA 수능 실전편 Day 1",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "aspiration",
+   "meaning": "염원, 목표",
+   "section": "Day03 [ EBS 수능 완성 ] ch 3",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "demonstrate",
+   "meaning": "보여 주다",
+   "section": "Day03 [ EBS 수능 완성 ] ch 3",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "disengaged",
+   "meaning": "흥미를 잃은, 떨어져 있는",
+   "section": "Day03 [ EBS 수능 완성 ] ch 3",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "enforcement",
+   "meaning": "집행",
+   "section": "Day03 [ EBS 수능 완성 ] ch 3",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "manipulate",
+   "meaning": "다루다, 조작하다",
+   "section": "Day03 [ EBS 수능 완성 ] ch 3",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "contraction",
+   "meaning": "수축",
+   "section": "Day03 [ EBS 수능 완성 ] ch 3",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "efficient",
+   "meaning": "효율적인, 능률적인; 유능한",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "attentive",
+   "meaning": "주의를 기울이는; 배려하는, 신경을 쓰는",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "intensify",
+   "meaning": "심해지다, 심화시키다, 강화하다",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "caterpillar",
+   "meaning": "애벌레",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "statement",
+   "meaning": "진술(서), 성명(서); 명세서",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "collective",
+   "meaning": "집단의, 공동의",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "continuous",
+   "meaning": "끊임없는, 계속되는",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "facility",
+   "meaning": "시설, 설비; 기능; 재능",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "surrender",
+   "meaning": "항복, 굴복; 양도",
+   "section": "능률 VOCA 수능 실전편 Day 2",
+   "day": 3,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "accumulate",
+   "meaning": "모으다, 축적하다",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "coordinate",
+   "meaning": "대등하게 하다, 조정하다",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "inevitably",
+   "meaning": "필연적으로, 불가피하게",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "be alert to",
+   "meaning": "~에 민감하다",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "speculation",
+   "meaning": "추측",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "cooperation",
+   "meaning": "협력",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "strip away",
+   "meaning": "~을 박탈하다[제거하다]",
+   "section": "Day04 [ EBS 수능 완성 ] ch 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "subsequent",
+   "meaning": "그 이후의, 연이은",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "privileging",
+   "meaning": "특권화",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "heat wave",
+   "meaning": "폭염, 무더위",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "investment",
+   "meaning": "(시간, 노력 등의) 투자",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "resource",
+   "meaning": "자원, 재원, 자산; 원천",
+   "section": "능률 VOCA 수능 실전편 Day 4",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "anticipate",
+   "meaning": "예상[예측]하다; 기대[고대]하다",
+   "section": "능률 VOCA 수능 실전편 Day 4",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "seemingly",
+   "meaning": "외견상으로, 겉보기에는; 보아하니",
+   "section": "능률 VOCA 수능 실전편 Day 4",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "personnel",
+   "meaning": "(조직의) 인원, 직원들; (회사의) 인사과",
+   "section": "능률 VOCA 수능 실전편 Day 4",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "criterion",
+   "meaning": "표준, 기준, 척도",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "analytical",
+   "meaning": "분석적인, 분석의",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "bump into",
+   "meaning": "(우연히) ~와 마주치다;",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "inevitable",
+   "meaning": "불가피한, 필연적인",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "constrained",
+   "meaning": "제한된",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "endurance",
+   "meaning": "지구력, 인내력, 참을성",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "chase down",
+   "meaning": "~을 끝까지 쫓아가서 잡다",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "dissolution",
+   "meaning": "해체",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "arrangement",
+   "meaning": "배치",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "figure out",
+   "meaning": "~을 알아내다",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "interpret",
+   "meaning": "(의미를) 해석하다, 이해하다; 통역하다",
+   "section": "능률 VOCA 수능 고난도 Day 6",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "authentic",
+   "meaning": "정통의; 진짜의, 진품의",
+   "section": "능률 VOCA 수능 고난도 Day 6",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "universal",
+   "meaning": "보편적인, 일반적인; 전 세계적인",
+   "section": "능률 VOCA 수능 고난도 Day 6",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "associate",
+   "meaning": "연상하다, 관련짓다; 교제하다",
+   "section": "능률 VOCA 수능 고난도 Day 6",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "preschooler",
+   "meaning": "미취학 아동",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "exploratory",
+   "meaning": "탐구적인",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "constitute",
+   "meaning": "여기다, 간주하다",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "possibility",
+   "meaning": "가능성",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "convention",
+   "meaning": "관례, 관습",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "negativity",
+   "meaning": "부정적 성향, 부정성",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "strengthen",
+   "meaning": "강화하다, 강화되다",
+   "section": "능률 VOCA 수능 고난도 Day 7",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "diversify",
+   "meaning": "다각화하다, 다양화하다, 다양해지다",
+   "section": "능률 VOCA 수능 고난도 Day 7",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "facilitate",
+   "meaning": "촉진하다",
+   "section": "Day02 [ EBS 수능 완성 ] ch 2",
+   "day": 2,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "constrain",
+   "meaning": "제약하다, 제한하다",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "definition",
+   "meaning": "정의",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "relatively",
+   "meaning": "비교적",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "competence",
+   "meaning": "능력",
+   "section": "Day05 [ EBS 수능 완성 ] ch 5",
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "impression",
+   "meaning": "인상",
+   "section": "Day06 [ EBS 수능 완성 ] ch 6",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "contextual",
+   "meaning": "맥락적인",
+   "section": "Day06 [ EBS 수능 완성 ] ch 6",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "partition",
+   "meaning": "구역을 나누다, 분할하다",
+   "section": "Day06 [ EBS 수능 완성 ] ch 6",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "phenomenon",
+   "meaning": "현상 (pl. phenomena)",
+   "section": "Day06 [ EBS 수능 완성 ] ch 6",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "summarize",
+   "meaning": "요약하다, 간추리다",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "empirical",
+   "meaning": "경험[실험]에 따른, 실증적인",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "affinity",
+   "meaning": "친밀감, 좋아함; 유사성",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "slippery",
+   "meaning": "미끄러운; 믿기 어려운;",
+   "section": "능률 VOCA 수능 고난도 Day 5",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "marathoner",
+   "meaning": "마라톤 선수[주자]",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "detachment",
+   "meaning": "분리",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "correlate",
+   "meaning": "상관 변수, 서로 관련이 있는 것",
+   "section": "Day07 [ EBS 수능 완성 ] ch 7",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "appreciate",
+   "meaning": "이해하다",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "represent",
+   "meaning": "표현하다, 나타내다",
+   "section": "Day08 [ EBS 수능 완성 ] ch 8",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "argument",
+   "meaning": "논증, 논쟁",
+   "section": "Day06 [ EBS 수능 완성 ] ch 6",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "adaptive",
+   "meaning": "적응적인, 적응성이 있는",
+   "section": "Day06 [ EBS 수능 완성 ] ch 6",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "collapse",
+   "meaning": "붕괴하다, 허물어지다",
+   "section": "Day06 [ EBS 수능 완성 ] ch 6",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  }
+ ],
+ "IA": [
+  {
+   "word": "That is to say",
+   "meaning": "다시 말해서",
+   "section": null,
+   "day": 5,
+   "score": 13,
+   "tier": 3
+  },
+  {
+   "word": "For instance",
+   "meaning": "예를 들면",
+   "section": null,
+   "day": 5,
+   "score": 13,
+   "tier": 3
+  },
+  {
+   "word": "Unfortunately",
+   "meaning": "운 없게",
+   "section": null,
+   "day": 5,
+   "score": 13,
+   "tier": 3
+  },
+  {
+   "word": "precaution",
+   "meaning": "조심, 경계; 예방책",
+   "section": "능률 VOCA 어원편(고등) DAY 1",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "premature",
+   "meaning": "시기상조의, 조급한; 너무 이른, 조기의",
+   "section": "능률 VOCA 어원편(고등) DAY 1",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "preview",
+   "meaning": "미리 보기, 사전 검토; (극, 영화 등의) 시사(회), 시연; 예고편",
+   "section": "능률 VOCA 어원편(고등) DAY 1",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "outlet",
+   "meaning": "(액체, 기체, 감정 등의) 배출구, 표출 방법; 상점, 아웃렛; 콘센트",
+   "section": "능률 VOCA 어원편(고등) DAY 1",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "represent",
+   "meaning": "대변하다, 대표하다; 나타내다, 상징하다",
+   "section": "능률 VOCA 어원편 DAY 2",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "reproduce",
+   "meaning": "생식[번식]하다; 복제[복사]하다; 재생[재현]하다,",
+   "section": "능률 VOCA 어원편 DAY 2",
+   "day": 2,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "explicit",
+   "meaning": "분명한, 명백한, 뚜렷한; 노골적인, 숨김없는",
+   "section": "능률 VOCA 어원편(고등) DAY 4",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "unfortunate",
+   "meaning": "재활용하다, 재생하다",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "disability",
+   "meaning": "(신체적, 정신적) 장애, 결함",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "inexpensive",
+   "meaning": "저렴한, 비싸지 않은",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "discourage",
+   "meaning": "그만두게 하다, 단념시키다; 낙담시키다",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "sovereign",
+   "meaning": "주권이 있는; 자주의, 독립의; 최고 권력의",
+   "section": "능률 VOCA 어원편(고등) DAY 6",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "anticipate",
+   "meaning": "예상하다, 예측하다; 기대하다",
+   "section": "능률 VOCA 어원편(고등) DAY 6",
+   "day": 4,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "hospitality",
+   "meaning": "환대, 접대",
+   "section": "Reading Explorer 2 4A",
+   "day": 5,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "get through",
+   "meaning": "~을 끝마치다",
+   "section": "숙어 암기",
+   "day": 5,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "By contrast",
+   "meaning": "대조적으로",
+   "section": null,
+   "day": 5,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "Even though",
+   "meaning": "비록 ~일지라도",
+   "section": null,
+   "day": 5,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "Consequently",
+   "meaning": "결과적으로",
+   "section": null,
+   "day": 5,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "in addition",
+   "meaning": "게다가",
+   "section": null,
+   "day": 5,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "first of all",
+   "meaning": "무엇보다도",
+   "section": null,
+   "day": 5,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "For example",
+   "meaning": "예를 들면",
+   "section": null,
+   "day": 5,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "absolute",
+   "meaning": "완전한, 전적인, 절대적인; 확실한, 틀림없는",
+   "section": "능률 VOCA 어원편(고등) DAY 7",
+   "day": 6,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "correspond",
+   "meaning": "(...에) 해당[대응]하다; 일치[부합]하다; 서신을 주고받다",
+   "section": "능률 VOCA 어원편(고등) DAY 7",
+   "day": 6,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "permanent",
+   "meaning": "영구적인, 불변의; 오랫동안 지속되는; 정규(직)의",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 6,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "counterfeit",
+   "meaning": "위조의, 가짜의",
+   "section": "능률 VOCA 어원편(고등) DAY 6",
+   "day": 6,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "abandon",
+   "meaning": "(사람, 장소 등을) 버리다, 떠나다; (계획, 생각, 신념 등을) 포기하다",
+   "section": "능률 VOCA 어원편(고등) DAY 6",
+   "day": 6,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "photographer",
+   "meaning": "사진사",
+   "section": null,
+   "day": 7,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "entomologist",
+   "meaning": "곤충학자",
+   "section": null,
+   "day": 7,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "facility",
+   "meaning": "(편의) 시설, 설비; (장비, 체계 등의) 기능, 특질",
+   "section": "능률 VOCA 어원편(고등) DAY 11",
+   "day": 8,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "transport",
+   "meaning": "수송, 운송; 운송 수단, 수송 기관",
+   "section": "능률 VOCA 어원편(고등) DAY 11",
+   "day": 8,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "opportunity",
+   "meaning": "(좋은) 기회, 호기",
+   "section": "능률 VOCA 어원편(고등) DAY 11",
+   "day": 8,
+   "score": 12,
+   "tier": 2
+  },
+  {
+   "word": "experience",
+   "meaning": "겪다, 경험하다",
+   "section": "Reading Explorer 2 2A",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "by degrees",
+   "meaning": "점차로",
+   "section": "숙어 암기",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "come about",
+   "meaning": "일어나다",
+   "section": "숙어 암기",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "investment",
+   "meaning": "투자, 투자 자금",
+   "section": "능률 VOCA 어원편(고등) DAY 1",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "profile",
+   "meaning": "(얼굴의) 윤곽, 옆얼굴; 인물 소개, 프로필; 개요",
+   "section": "능률 VOCA 어원편(고등) DAY 1",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "illustrate",
+   "meaning": "설명하다; 삽화를 넣다",
+   "section": "능률 VOCA 어원편(고등) DAY 1",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "forefather",
+   "meaning": "선조, 조상",
+   "section": "능률 VOCA 어원편(고등) DAY 3",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "foremost",
+   "meaning": "가장 중요한, 최고의; 선두의, 맨 앞[먼저]의",
+   "section": "능률 VOCA 어원편(고등) DAY 3",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "overcome",
+   "meaning": "(곤란, 장애 등을) 극복하다, 이겨내다; (남을) 이기다",
+   "section": "능률 VOCA 어원편(고등) DAY 3",
+   "day": 2,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "interpret",
+   "meaning": "통역하다; (...의 의미로) 이해[해석]하다, 파악하다",
+   "section": "능률 VOCA 어원편(고등) DAY 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "interval",
+   "meaning": "(장소, 시간의) 간격; (연극&#8231;공연 등의) 중간 휴식 시간",
+   "section": "능률 VOCA 어원편(고등) DAY 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "exaggerate",
+   "meaning": "과장하다, 과장해서 말하다",
+   "section": "능률 VOCA 어원편(고등) DAY 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "misleading",
+   "meaning": "오도하는, 오해의 소지가 있는",
+   "section": "능률 VOCA 어원편(고등) DAY 4",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "unbearable",
+   "meaning": "참을 수 없는, 견딜 수 없는",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "inevitable",
+   "meaning": "피할 수 없는, 불가피한",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "disorder",
+   "meaning": "무질서, 혼란; (심신의) 이상, 장애",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "disappear",
+   "meaning": "(시야에서) 사라지다, 안 보이다; (존재가) 없어지다",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 4,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "structures",
+   "meaning": "건설물, 건축물",
+   "section": "Reading Explorer 2 4A",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "intangible",
+   "meaning": "말할 수 없는, 무형의",
+   "section": "Reading Explorer 2 4A",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "for want of",
+   "meaning": "~이 부족하여",
+   "section": "숙어 암기",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "give forth",
+   "meaning": "~을 발산하다",
+   "section": "숙어 암기",
+   "day": 5,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "temperature",
+   "meaning": "기온",
+   "section": "Reading Explorer 2 4B",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "god forbid",
+   "meaning": "이거 안되겠군!",
+   "section": "숙어 암기",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "synthetic",
+   "meaning": "합성한, 인조의; 종합적인",
+   "section": "능률 VOCA 어원편(고등) DAY 7",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "compress",
+   "meaning": "압축하다, 꾹 누르다; (사상, 언어 등을) 간결하게 하다",
+   "section": "능률 VOCA 어원편(고등) DAY 7",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "compromise",
+   "meaning": "타협, 절충",
+   "section": "능률 VOCA 어원편(고등) DAY 7",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "separate",
+   "meaning": "분리하다, 갈라놓다; 분리되다, 갈라지다",
+   "section": "능률 VOCA 어원편(고등) DAY 7",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "confirm",
+   "meaning": "(예약, 약속 등을) 확인하다, 확정하다; (...이 사실임을) 보여주다, 확인해주다",
+   "section": "능률 VOCA 어원편(고등) DAY 7",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "persevere",
+   "meaning": "(끈질기게) 노력하다, 인내하다, 견디다",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "enrich",
+   "meaning": "(질, 가치, 빛깔, 맛 등을) 높이다, 풍부하게 하다; 부유하게 하다",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "persuade",
+   "meaning": "설득하다, 권해서 ...하게 하다; 믿게 하다, 납득시키다",
+   "section": "능률 VOCA 어원편 DAY 5",
+   "day": 6,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "preparation",
+   "meaning": "준비",
+   "section": "Reading Explorer 2 5B",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "prehistoric",
+   "meaning": "선사시대의",
+   "section": "Reading Explorer 2 5B",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "expedition",
+   "meaning": "탐험, 원정대",
+   "section": "Reading Explorer 2 5B",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "in a degree",
+   "meaning": "어느 정도",
+   "section": "숙어 암기",
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "electronics",
+   "meaning": "전자공학",
+   "section": null,
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "mathematics",
+   "meaning": "수학",
+   "section": null,
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "engineering",
+   "meaning": "공학",
+   "section": null,
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "archaeology",
+   "meaning": "고고학",
+   "section": null,
+   "day": 7,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "consumption",
+   "meaning": "소비",
+   "section": "Reading Explorer 2 6A",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "figure",
+   "meaning": "숫자, 수치; (돈의) 액수; (중요한) 인물; 모양, 형태",
+   "section": "능률 VOCA 어원편(고등) DAY 11",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "affair",
+   "meaning": "(공적으로 중요한) 일, 문제; (사적인) 일, 사건; 스캔들, 추문",
+   "section": "능률 VOCA 어원편(고등) DAY 11",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "deficient",
+   "meaning": "(필수적인 것이) 부족한, 모자라는; 결함이 있는",
+   "section": "능률 VOCA 어원편(고등) DAY 11",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "proficient",
+   "meaning": "숙달된, 능숙한",
+   "section": "능률 VOCA 어원편(고등) DAY 11",
+   "day": 8,
+   "score": 11,
+   "tier": 1
+  },
+  {
+   "word": "collection",
+   "meaning": "수집",
+   "section": "Reading Explorer 2 5B",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "eventually",
+   "meaning": "결국",
+   "section": "Reading Explorer 2 5B",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "individual",
+   "meaning": "각각[개개]의",
+   "section": "Reading Explorer 2 5B",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "generation",
+   "meaning": "세대",
+   "section": "Reading Explorer 2 6A",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "remarkable",
+   "meaning": "주목할만한",
+   "section": "Reading Explorer 2 6A",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "in person",
+   "meaning": "몸소",
+   "section": "숙어 암기",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "in detail",
+   "meaning": "상세하게",
+   "section": "숙어 암기",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "do good",
+   "meaning": "이익이 되다",
+   "section": "숙어 암기",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "do with",
+   "meaning": "다루다",
+   "section": "숙어 암기",
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "sparrow",
+   "meaning": "참새",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "mimicry",
+   "meaning": "흉내",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "evolve",
+   "meaning": "발달, 진전하다",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "impact",
+   "meaning": "영향, 충격",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "measure",
+   "meaning": "측정하다",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "object",
+   "meaning": "ⓝ 물체 This object is a rather circle, what's this?",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "quarter",
+   "meaning": "ⓝ 4분기 The result for the this quarter is due on May 1",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "operate",
+   "meaning": "ⓥ 움직이다 The fax machine is operating around the world.",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "swamp",
+   "meaning": "늪, 습지",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "aspect",
+   "meaning": "측면",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "rarely",
+   "meaning": "드물게",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "create",
+   "meaning": "창조하다",
+   "section": "Reading Explorer 2 2B",
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "plant",
+   "meaning": "ⓝ 공장, 생산설비 He works for an automobile plant.",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  }
+ ],
+ "PA": [
+  {
+   "word": "intelligent",
+   "meaning": "총명한, 똑똑한",
+   "section": "어휘 끝 중학마스터 Unit 17",
+   "day": 8,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "original",
+   "meaning": "원래의, 본래의; 독창적인; 원본, 원형",
+   "section": "어휘 끝 중학마스터 Unit 18",
+   "day": 8,
+   "score": 12,
+   "tier": 3
+  },
+  {
+   "word": "memorialize",
+   "meaning": "기념하다",
+   "section": "Bricks Subject Reading 2 unit 2",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "influential",
+   "meaning": "영향력 있는",
+   "section": "Bricks Subject Reading 2 unit 2",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "meteorology",
+   "meaning": "기상학",
+   "section": "Bricks Subject Reading 2 unit 2",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "break into",
+   "meaning": "침입하다",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "determine",
+   "meaning": "결심하다, 결정하다; 알아내다",
+   "section": "어휘 끝 중학마스터 Unit 5",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "recognize",
+   "meaning": "알아보다, 알다; 인정하다",
+   "section": "어휘 끝 중학마스터 Unit 5",
+   "day": 2,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "transfer",
+   "meaning": "옮기다, 이동하다; 갈아타다; 이동",
+   "section": "어휘 끝 중학마스터 Unit 10",
+   "day": 4,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "complicate",
+   "meaning": "복잡하게 하다, 어렵게 만들다",
+   "section": "어휘 끝 중학마스터 Unit 10",
+   "day": 4,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "continuous",
+   "meaning": "끊임없는, 연속적인",
+   "section": "어휘 끝 중학마스터 Unit 13",
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "unexpected",
+   "meaning": "예기치 않은, 뜻밖의",
+   "section": "어휘 끝 중학마스터 Unit 14",
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "background",
+   "meaning": "배경, 출신",
+   "section": "Bricks Subject Reading 2 unit 9",
+   "day": 7,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "impression",
+   "meaning": "인상, 생각",
+   "section": "Bricks Subject Reading 2 unit 9",
+   "day": 7,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "medicine",
+   "meaning": "약, 약물; 의학, 의술",
+   "section": "어휘 끝 중학마스터 Unit 15",
+   "day": 7,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "course",
+   "meaning": "강의, 과목; (일의) 진행, 과정; (선박&#8729;항공기의) 항로",
+   "section": "어휘 끝 중학마스터 Unit 16",
+   "day": 7,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "documentary",
+   "meaning": "기록물",
+   "section": "Bricks Subject Reading 2 unit 11",
+   "day": 8,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "endangered",
+   "meaning": "멸종 위기의, 위험한",
+   "section": "Bricks Subject Reading 2 unit 11",
+   "day": 8,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "by degrees",
+   "meaning": "점차로",
+   "section": "숙어암기",
+   "day": 8,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "come about",
+   "meaning": "일어나다",
+   "section": "숙어암기",
+   "day": 8,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "accomplish",
+   "meaning": "이루다, 성취하다",
+   "section": "어휘 끝 중학마스터 Unit 17",
+   "day": 8,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "difficulty",
+   "meaning": "곤란, 어려움",
+   "section": "어휘 끝 중학마스터 Unit 17",
+   "day": 8,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "journal",
+   "meaning": "일기, 일지; 신문, 잡지, 학술지",
+   "section": "어휘 끝 중학마스터 Unit 17",
+   "day": 8,
+   "score": 11,
+   "tier": 2
+  },
+  {
+   "word": "refer to",
+   "meaning": "표현한다, 말한다",
+   "section": "Bricks Subject Reading 2 unit 2",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "celestial",
+   "meaning": "하늘의, 천상의",
+   "section": "Bricks Subject Reading 2 unit 2",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "astronomer",
+   "meaning": "천문학자",
+   "section": "Bricks Subject Reading 2 unit 2",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "make sure",
+   "meaning": "확신하다",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "by dint of",
+   "meaning": "~에 의해서",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "take a nap",
+   "meaning": "낮잠 자다",
+   "section": "숙어암기",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "associate",
+   "meaning": "연상하다; (사업·직장) 동료",
+   "section": "어휘 끝 중학마스터 Unit 5",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "conclude",
+   "meaning": "결론을 내리다; 끝나다, 마치다",
+   "section": "어휘 끝 중학마스터 Unit 5",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "toothbrush",
+   "meaning": "칫솔",
+   "section": "어휘 끝 중학마스터 Unit 6",
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "courtyard",
+   "meaning": "안마당, 안뜰",
+   "section": "어휘 끝 중학마스터 Unit 8",
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "character",
+   "meaning": "특징, 성격",
+   "section": "Bricks Subject Reading 2 unit 5",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "chemically",
+   "meaning": "화학적인",
+   "section": "Bricks Subject Reading 2 unit 5",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "hand down",
+   "meaning": "전하다",
+   "section": "숙어암기",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "ask after",
+   "meaning": "~의 안부를 묻다",
+   "section": "숙어암기",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "beyond",
+   "meaning": "~너머에, ~의 저편에; ((시간)) ~을 지나서; 저쪽에, 건너편에",
+   "section": "어휘 끝 중학마스터 Unit 9",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "downward(s)",
+   "meaning": "아래쪽으로의, 아래로 향한",
+   "section": "어휘 끝 중학마스터 Unit 9",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "upstairs",
+   "meaning": "위층에, 위층으로; 위층",
+   "section": "어휘 끝 중학마스터 Unit 9",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "straight",
+   "meaning": "곧은, 똑바른; 솔직한",
+   "section": "어휘 끝 중학마스터 Unit 9",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "opposite",
+   "meaning": "반대편의; 정반대의; 맞은편에",
+   "section": "어휘 끝 중학마스터 Unit 9",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "passenger",
+   "meaning": "승객, 여객",
+   "section": "어휘 끝 중학마스터 Unit 10",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "transport",
+   "meaning": "수송하다, ~을 운반하다",
+   "section": "어휘 끝 중학마스터 Unit 10",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "pedestrian",
+   "meaning": "보행자",
+   "section": "어휘 끝 중학마스터 Unit 10",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "automobile",
+   "meaning": "자동차",
+   "section": "어휘 끝 중학마스터 Unit 10",
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "vision",
+   "meaning": "미래상, 비전; 시력; 환상, 환영",
+   "section": "어휘 끝 중학마스터 Unit 12",
+   "day": 5,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "antibiotic",
+   "meaning": "항생의",
+   "section": "Bricks Subject Reading 2 unit 8",
+   "day": 6,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "stem from",
+   "meaning": "~에서 비롯하다",
+   "section": "숙어암기",
+   "day": 6,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "at random",
+   "meaning": "함부로",
+   "section": "숙어암기",
+   "day": 6,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "advantage",
+   "meaning": "이점, 장점",
+   "section": "어휘 끝 중학마스터 Unit 13",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "strange",
+   "meaning": "이상한, 묘한; 낯선, 모르는",
+   "section": "어휘 끝 중학마스터 Unit 13",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "constant",
+   "meaning": "거듭되는, 끊임없는, 일정한",
+   "section": "어휘 끝 중학마스터 Unit 13",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "complete",
+   "meaning": "완전한; ~을 끝마치다, 완성하다",
+   "section": "어휘 끝 중학마스터 Unit 13",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "emergency",
+   "meaning": "비상(사태), 위급",
+   "section": "어휘 끝 중학마스터 Unit 14",
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "animation",
+   "meaning": "만화, 영화",
+   "section": "Bricks Subject Reading 2 unit 9",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "attend to",
+   "meaning": "주의하다",
+   "section": "숙어암기",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "attend on",
+   "meaning": "시중들다",
+   "section": "숙어암기",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "become of",
+   "meaning": "~가 되다",
+   "section": "숙어암기",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "principle",
+   "meaning": "원칙, 원리",
+   "section": "어휘 끝 중학마스터 Unit 16",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "institute",
+   "meaning": "기관, 협회",
+   "section": "어휘 끝 중학마스터 Unit 16",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "senior",
+   "meaning": "(나이나 계급이) 높은, 연장의; 연장자, 손윗사람; 상급생",
+   "section": "어휘 끝 중학마스터 Unit 16",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "academic",
+   "meaning": "학교의, 학업의; 학문의",
+   "section": "어휘 끝 중학마스터 Unit 16",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "category",
+   "meaning": "범주, 종류, 부문",
+   "section": "어휘 끝 중학마스터 Unit 16",
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "awareness",
+   "meaning": "지각, 인식",
+   "section": "Bricks Subject Reading 2 unit 11",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "come up to",
+   "meaning": "~에 이르다",
+   "section": "숙어암기",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "attitude",
+   "meaning": "태도, 자세, 사고방식",
+   "section": "어휘 끝 중학마스터 Unit 17",
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "annually",
+   "meaning": "매년, 연간",
+   "section": "Bricks Subject Reading 2 unit 4",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "mystical",
+   "meaning": "신비로운, 불가사의한",
+   "section": "Bricks Subject Reading 2 unit 4",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "abundant",
+   "meaning": "풍부한, 많은",
+   "section": "Bricks Subject Reading 2 unit 4",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "organism",
+   "meaning": "생물, 유기체",
+   "section": "Bricks Subject Reading 2 unit 4",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "numerous",
+   "meaning": "수많은, 다수의",
+   "section": "Bricks Subject Reading 2 unit 4",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "shepherd",
+   "meaning": "양치기, 목자",
+   "section": "Bricks Subject Reading 2 unit 4",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "for good",
+   "meaning": "영원히",
+   "section": "숙어암기",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "for ages",
+   "meaning": "오랫동안",
+   "section": "숙어암기",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "grocery",
+   "meaning": "식료품점, 식품점; 식료품",
+   "section": "어휘 끝 중학마스터 Unit 7",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "cafeteria",
+   "meaning": "구내식당",
+   "section": "어휘 끝 중학마스터 Unit 8",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "escalator",
+   "meaning": "에스컬레이터",
+   "section": "어휘 끝 중학마스터 Unit 8",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "wallpaper",
+   "meaning": "벽지",
+   "section": "어휘 끝 중학마스터 Unit 8",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "elevator",
+   "meaning": "엘리베이터, 승강기",
+   "section": "어휘 끝 중학마스터 Unit 8",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "construct",
+   "meaning": "건설하다",
+   "section": "어휘 끝 중학마스터 Unit 8",
+   "day": 3,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "drinkable",
+   "meaning": "마실 수 있는",
+   "section": "Bricks Subject Reading 2 unit 7",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "get lost",
+   "meaning": "헤매다",
+   "section": "Bricks Subject Reading 2 unit 7",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "location",
+   "meaning": "위치, 자리",
+   "section": "Bricks Subject Reading 2 unit 7",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "at a loss",
+   "meaning": "어쩔 줄 몰라서",
+   "section": "숙어암기",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "at times",
+   "meaning": "가끔",
+   "section": "숙어암기",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "at large",
+   "meaning": "대게",
+   "section": "숙어암기",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "spread",
+   "meaning": "펼치다; 퍼뜨리다; 확산, 전파",
+   "section": "어휘 끝 중학마스터 Unit 11",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "approach",
+   "meaning": "~에 접근하다, 가까이 가다",
+   "section": "어휘 끝 중학마스터 Unit 11",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "stomach",
+   "meaning": "위, 배, 복부",
+   "section": "어휘 끝 중학마스터 Unit 12",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "sight",
+   "meaning": "시력, 시각; 보는 것; 경치, 광경",
+   "section": "어휘 끝 중학마스터 Unit 12",
+   "day": 5,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "prescribe",
+   "meaning": "처방하다",
+   "section": "Bricks Subject Reading 2 unit 8",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "waistline",
+   "meaning": "허리의 선",
+   "section": "Bricks Subject Reading 2 unit 8",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "at table",
+   "meaning": "식사 중에",
+   "section": "숙어암기",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "possible",
+   "meaning": "가능한, 할 수 있는",
+   "section": "어휘 끝 중학마스터 Unit 13",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "accident",
+   "meaning": "사고; 우연",
+   "section": "어휘 끝 중학마스터 Unit 14",
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "boulder",
+   "meaning": "둥근 돌, 바위",
+   "section": "Bricks Subject Reading 2 unit 7",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "cut off",
+   "meaning": "절단하다",
+   "section": "Bricks Subject Reading 2 unit 7",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "contact",
+   "meaning": "연락, 접촉",
+   "section": "Bricks Subject Reading 2 unit 7",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "scratch",
+   "meaning": "긁다, 할퀴다",
+   "section": "Bricks Subject Reading 2 unit 7",
+   "day": 5,
+   "score": 8,
+   "tier": 1
+  }
+ ],
+ "JUPITER": [
+  {
+   "word": "finish",
+   "meaning": "끝내다, 끝나다",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "absent",
+   "meaning": "결석한, (자리에) 없는",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "get up",
+   "meaning": "일어나다",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "first",
+   "meaning": "우선, 맨 먼저",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "number",
+   "meaning": "숫자",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "rabbit",
+   "meaning": "토끼",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "gloves",
+   "meaning": "장갑",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "pocket",
+   "meaning": "주머니",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "wear",
+   "meaning": "입다, 쓰다, 신다",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "style",
+   "meaning": "스타일; 방식",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "subway",
+   "meaning": "지하철",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "left",
+   "meaning": "왼쪽; 왼쪽의; 왼쪽으로",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "bridge",
+   "meaning": "다리",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "test",
+   "meaning": "시험; 검사, 실험",
+   "section": null,
+   "day": 6,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "grade",
+   "meaning": "성적; 학년",
+   "section": null,
+   "day": 6,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "borrow",
+   "meaning": "빌리다",
+   "section": null,
+   "day": 6,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "hall",
+   "meaning": "복도, 홀, 강당",
+   "section": null,
+   "day": 6,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "forest",
+   "meaning": "숲",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "garden",
+   "meaning": "정원",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "speech",
+   "meaning": "연설",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 3
+  },
+  {
+   "word": "solve",
+   "meaning": "해결하다, 풀다",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 2
+  },
+  {
+   "word": "wrong",
+   "meaning": "틀린, 잘못된",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 2
+  },
+  {
+   "word": "minute",
+   "meaning": "(시간 단위) 분",
+   "section": null,
+   "day": 8,
+   "score": 6,
+   "tier": 2
+  },
+  {
+   "word": "month",
+   "meaning": "달, 월",
+   "section": null,
+   "day": 8,
+   "score": 6,
+   "tier": 2
+  },
+  {
+   "word": "early",
+   "meaning": "일찍; 이른",
+   "section": null,
+   "day": 8,
+   "score": 6,
+   "tier": 2
+  },
+  {
+   "word": "until",
+   "meaning": "~까지; ~할 때까지",
+   "section": null,
+   "day": 8,
+   "score": 6,
+   "tier": 2
+  },
+  {
+   "word": "tired",
+   "meaning": "피곤한 워드마스터 중등 Basic Day 15 단어 뜻 단어 뜻",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "meal",
+   "meaning": "식사, 끼니",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "sugar",
+   "meaning": "설탕",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "cook",
+   "meaning": "요리하다; 요리사",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "pour",
+   "meaning": "붓다, 따르다",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "melt",
+   "meaning": "녹다, 녹이다",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "rice",
+   "meaning": "쌀, 밥",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "heat",
+   "meaning": "가열하다; 열기",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "knife",
+   "meaning": "칼",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "open",
+   "meaning": "열다; 열린",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "order",
+   "meaning": "주문하다",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "dish",
+   "meaning": "접시; 요리",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "chef",
+   "meaning": "요리사, 주방장",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "soup",
+   "meaning": "수프, 국",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "salad",
+   "meaning": "샐러드",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "menu",
+   "meaning": "메뉴, 식단표",
+   "section": null,
+   "day": 3,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "begin",
+   "meaning": "시작하다",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "learn",
+   "meaning": "배우다",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "paper",
+   "meaning": "종이",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "play",
+   "meaning": "(경기 따위)를 하다, (악기)를 연주하다",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "story",
+   "meaning": "이야기",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "pants",
+   "meaning": "바지",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "belt",
+   "meaning": "벨트, 허리띠",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "shirt",
+   "meaning": "셔츠",
+   "section": null,
+   "day": 4,
+   "score": 5,
+   "tier": 2
+  },
+  {
+   "word": "raise",
+   "meaning": "올리다",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "truck",
+   "meaning": "트럭",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "boat",
+   "meaning": "보트, 배",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "ride",
+   "meaning": "타다, 몰다",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "sign",
+   "meaning": "표지판; 서명하다",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "road",
+   "meaning": "도로, 길",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "stop",
+   "meaning": "멈추다; 정류장",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "drive",
+   "meaning": "운전하다",
+   "section": null,
+   "day": 5,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "cycle",
+   "meaning": "순환",
+   "section": null,
+   "day": 6,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "life",
+   "meaning": "생애, 삶",
+   "section": null,
+   "day": 6,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "teach",
+   "meaning": "가르치다",
+   "section": null,
+   "day": 6,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "aunt",
+   "meaning": "이모, 고모",
+   "section": null,
+   "day": 7,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "plant",
+   "meaning": "심다",
+   "section": null,
+   "day": 7,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "reach",
+   "meaning": "~에 이르다",
+   "section": null,
+   "day": 7,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "share",
+   "meaning": "함께 나누다",
+   "section": null,
+   "day": 7,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "water",
+   "meaning": "물을 주다 / 물",
+   "section": null,
+   "day": 7,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "band",
+   "meaning": "밴드, 악단",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "daddy",
+   "meaning": "아빠",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "drum",
+   "meaning": "북, 드럼",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "shout",
+   "meaning": "소리치다",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "week",
+   "meaning": "주, 일주일",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "hour",
+   "meaning": "시간, 시각",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "from",
+   "meaning": "~에서, ~부터",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "year",
+   "meaning": "한 해, 1년",
+   "section": null,
+   "day": 8,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "find",
+   "meaning": "찾다",
+   "section": null,
+   "day": 2,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "bear",
+   "meaning": "곰",
+   "section": null,
+   "day": 2,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "cave",
+   "meaning": "동굴",
+   "section": null,
+   "day": 2,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "leaf",
+   "meaning": "잎",
+   "section": null,
+   "day": 2,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "nest",
+   "meaning": "둥지",
+   "section": null,
+   "day": 2,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "hill",
+   "meaning": "언덕",
+   "section": null,
+   "day": 2,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "miss",
+   "meaning": "그리워하다",
+   "section": null,
+   "day": 2,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "hang",
+   "meaning": "매달리다",
+   "section": null,
+   "day": 3,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "hole",
+   "meaning": "구멍",
+   "section": null,
+   "day": 3,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "lava",
+   "meaning": "용암",
+   "section": null,
+   "day": 3,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "rain",
+   "meaning": "비가 오다",
+   "section": null,
+   "day": 3,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "cup",
+   "meaning": "컵, 잔",
+   "section": null,
+   "day": 3,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "hear",
+   "meaning": "듣다",
+   "section": null,
+   "day": 5,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "wait",
+   "meaning": "기다리다 워드마스터 중등 Basic Day 18 단어 뜻 단어 뜻",
+   "section": null,
+   "day": 5,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "bike",
+   "meaning": "자전거",
+   "section": null,
+   "day": 5,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "fall",
+   "meaning": "떨어지다",
+   "section": null,
+   "day": 6,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "root",
+   "meaning": "뿌리",
+   "section": null,
+   "day": 6,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "stem",
+   "meaning": "줄기 워드마스터 중등 Basic Day 19 단어 뜻 단어 뜻",
+   "section": null,
+   "day": 6,
+   "score": 4,
+   "tier": 1
+  },
+  {
+   "word": "sea",
+   "meaning": "바다 워드마스터 중등 Basic Day 16 단어 뜻 단어 뜻",
+   "section": null,
+   "day": 3,
+   "score": 3,
+   "tier": 1
+  },
+  {
+   "word": "eat",
+   "meaning": "먹다",
+   "section": null,
+   "day": 3,
+   "score": 3,
+   "tier": 1
+  },
+  {
+   "word": "act",
+   "meaning": "행동하다",
+   "section": null,
+   "day": 5,
+   "score": 3,
+   "tier": 1
+  },
+  {
+   "word": "gym",
+   "meaning": "체육관",
+   "section": null,
+   "day": 6,
+   "score": 3,
+   "tier": 1
+  }
+ ],
+ "SATURN": [
+  {
+   "word": "stress",
+   "meaning": "스트레스, 압박, 강조",
+   "section": null,
+   "day": 5,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "stomach",
+   "meaning": "[소화기관] 위, 배",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "review",
+   "meaning": "검토하다, 평론[비평]하다, 복습하다",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "strange",
+   "meaning": "이상한, 낯선",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "however",
+   "meaning": "그러나, 그렇지만",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "in fact",
+   "meaning": "사실은",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "succeed",
+   "meaning": "성공하다, 뒤를 잇다",
+   "section": null,
+   "day": 8,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "failure",
+   "meaning": "실패, 실패작",
+   "section": null,
+   "day": 8,
+   "score": 8,
+   "tier": 3
+  },
+  {
+   "word": "repair",
+   "meaning": "고치다, 수리하다",
+   "section": null,
+   "day": 2,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "advise",
+   "meaning": "충고하다, 조언하다",
+   "section": null,
+   "day": 2,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "pour",
+   "meaning": "붓다, 따르다, (비가) 쏟아지다, 퍼붓다",
+   "section": null,
+   "day": 2,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "skill",
+   "meaning": "기량, 솜씨, 기술",
+   "section": null,
+   "day": 2,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "patient",
+   "meaning": "환자",
+   "section": null,
+   "day": 2,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "inspire",
+   "meaning": "영감을 주다",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "amazing",
+   "meaning": "놀라운",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "object",
+   "meaning": "사물, 물체",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "channel",
+   "meaning": "(TV 등의) 채널",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "recipe",
+   "meaning": "요리법, 레시피",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "lonely",
+   "meaning": "외로운, 쓸쓸한",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "blend",
+   "meaning": "섞이다, 섞다, 혼합하다",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 3
+  },
+  {
+   "word": "mixture",
+   "meaning": "혼합(물)",
+   "section": null,
+   "day": 3,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "breath",
+   "meaning": "숨, 호흡",
+   "section": null,
+   "day": 4,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "excite",
+   "meaning": "흥분시키다, 들뜨게 하다",
+   "section": null,
+   "day": 4,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "garbage",
+   "meaning": "쓰레기",
+   "section": null,
+   "day": 4,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "prison",
+   "meaning": "교도소, 감옥",
+   "section": null,
+   "day": 4,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "solar",
+   "meaning": "태양의, 태양에 관한, 태양열의",
+   "section": null,
+   "day": 4,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "villa",
+   "meaning": "(휴가용) 주택, 별장, 저택",
+   "section": null,
+   "day": 4,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "husband",
+   "meaning": "남편",
+   "section": null,
+   "day": 5,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "escape",
+   "meaning": "달아나다, 탈출하다",
+   "section": null,
+   "day": 5,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "gallery",
+   "meaning": "미술관",
+   "section": null,
+   "day": 5,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "talent",
+   "meaning": "(타고난) 재능, 재주",
+   "section": null,
+   "day": 5,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "create",
+   "meaning": "창조하다, 만들다",
+   "section": null,
+   "day": 5,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "perfume",
+   "meaning": "향수",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "history",
+   "meaning": "역사",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "please",
+   "meaning": "기쁘게 하다; ~의 마음에   들다",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "funeral",
+   "meaning": "장례식",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "protect",
+   "meaning": "보호하다",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "member",
+   "meaning": "회원, 일원",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "afraid",
+   "meaning": "두려워하는, 걱정하는",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "effect",
+   "meaning": "영향, 결과",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "safely",
+   "meaning": "안전하게, 무사히",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "accept",
+   "meaning": "받아들이다, 수락하다",
+   "section": null,
+   "day": 6,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "garden",
+   "meaning": "정원; 화원",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "gently",
+   "meaning": "부드럽게; 약하게",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "return",
+   "meaning": "돌아감, 귀환",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "cooking",
+   "meaning": "요리(하기)",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "praise",
+   "meaning": "칭찬, 찬양",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "wooden",
+   "meaning": "나무로 된, 목재의",
+   "section": null,
+   "day": 7,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "golden",
+   "meaning": "금빛의, 누런빛의",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "chariot",
+   "meaning": "(1인승 2륜의) 전차",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 2
+  },
+  {
+   "word": "warmth",
+   "meaning": "따뜻함, 온기",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "ground",
+   "meaning": "땅, 토양",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "across",
+   "meaning": "건너서, 가로질러",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "text",
+   "meaning": "(책 등의) 글, 본문, (컴퓨터의) 텍스트, 문서",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "foreign",
+   "meaning": "외국의",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "traffic",
+   "meaning": "교통(량)",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "beyond",
+   "meaning": "[장소] ... 너머[저편]에, [시간] ...을 지나서",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "toward",
+   "meaning": "...을 향하여, ... 쪽으로",
+   "section": null,
+   "day": 8,
+   "score": 7,
+   "tier": 1
+  },
+  {
+   "word": "trick",
+   "meaning": "속이다, 속임수를 쓰다",
+   "section": null,
+   "day": 2,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "blank",
+   "meaning": "공백의, 빈",
+   "section": null,
+   "day": 2,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "weigh",
+   "meaning": "무게가 ...이다, 무게를 재다[달다]",
+   "section": null,
+   "day": 2,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "punch",
+   "meaning": "주먹으로 치다[때리다], 구멍을 뚫다",
+   "section": null,
+   "day": 2,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "solve",
+   "meaning": "~을 풀다, (어려움 따위)를 해결하다",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "trail",
+   "meaning": "흔적, 지나간 자국",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "follow",
+   "meaning": "(~의 뒤를) 따라가다",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "lawyer",
+   "meaning": "변호사",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "wallet",
+   "meaning": "지갑",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "rail",
+   "meaning": "(철도의) 레일, 철도, 기차",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "adult",
+   "meaning": "성인, 어른",
+   "section": null,
+   "day": 3,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "alarm",
+   "meaning": "경보(음), 경고 신호",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "thief",
+   "meaning": "도둑, 절도범",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "branch",
+   "meaning": "나뭇가지",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "false",
+   "meaning": "틀린, 사실이 아닌",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "light",
+   "meaning": "불빛, 빛",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "danger",
+   "meaning": "위험",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "share",
+   "meaning": "(짐을) 싸다, 포장하다",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "lost",
+   "meaning": "길을 잃은, 잃어버린, 분실된",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "purse",
+   "meaning": "(여성용) 지갑, 핸드백",
+   "section": null,
+   "day": 4,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "visit",
+   "meaning": "~을 찾아가다, 방문하다",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "daily",
+   "meaning": "매일, 날마다",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "cross",
+   "meaning": "(가로질러) 건너다; 가로지르다",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "reveal",
+   "meaning": "(비밀 등을) 드러내다",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "monkey",
+   "meaning": "원숭이",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "tear",
+   "meaning": "눈물, 찢다, 찢어지다",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "result",
+   "meaning": "결과",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "living",
+   "meaning": "살아 있는",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "greet",
+   "meaning": "맞이하다, 환영하다",
+   "section": null,
+   "day": 5,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "guide",
+   "meaning": "(사람을) 안내하다,인도하다",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "herb",
+   "meaning": "허브, 약초, 향초",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "shake",
+   "meaning": "흔들다, 흔들어 움직이다",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "focus",
+   "meaning": "초점, 중점",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "allow",
+   "meaning": "허락하다, 허용하다",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "topic",
+   "meaning": "주제, 화제",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "scare",
+   "meaning": "겁주다, 겁나게 하다",
+   "section": null,
+   "day": 7,
+   "score": 6,
+   "tier": 1
+  },
+  {
+   "word": "wild",
+   "meaning": "(동·식물이) 야생의; (동물이) 길들여지지 않은",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "trust",
+   "meaning": "~을 신뢰하다",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "trap",
+   "meaning": "덫, 올가미",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "build",
+   "meaning": "~을 조립하다",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "late",
+   "meaning": "너무 늦은, 뒤늦은",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 1
+  },
+  {
+   "word": "catch",
+   "meaning": "잡다",
+   "section": null,
+   "day": 2,
+   "score": 5,
+   "tier": 1
+  }
+ ],
+ "URANUS": [
+  {
+   "word": "laboratory",
+   "meaning": "실습실, 연습실",
+   "section": null,
+   "day": 5,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "scholarship",
+   "meaning": "장학금",
+   "section": null,
+   "day": 5,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "ask ~ a favor",
+   "meaning": "~에게 부탁을 하다",
+   "section": null,
+   "day": 5,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "Milky Way",
+   "meaning": "은하수",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "conserve",
+   "meaning": "보전하다; 아끼다, 절약하다",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "efficiency",
+   "meaning": "효율",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "astronomer",
+   "meaning": "천문학자",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "authorized",
+   "meaning": "권한이 부여된",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "far from",
+   "meaning": "~에서 멀리; 전혀 ~이 아닌",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "advantage",
+   "meaning": "유리한 점, 이점",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "university",
+   "meaning": "종합대학",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "classmate",
+   "meaning": "급우, 학급 친구",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "auditorium",
+   "meaning": "강당",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "encourage",
+   "meaning": "용기를 북돋우다, 격려하다",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "spiritual",
+   "meaning": "정신적인, 영적인",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "date back",
+   "meaning": "~까지 거슬러 올라가다",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "attractive",
+   "meaning": "매력적인",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "sensitive",
+   "meaning": "민감한, 예민한",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "confident",
+   "meaning": "자신만만한; 확신하는",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "cautious",
+   "meaning": "조심스러운, 신중한, 조심하는",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 3
+  },
+  {
+   "word": "cheer up",
+   "meaning": "기운을 내다, ~을 격려하다",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "powerful",
+   "meaning": "영향력 있는, 유능한",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "decision",
+   "meaning": "결정, 판단 Word master 중등 실력 day 29-30",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "butterfly",
+   "meaning": "나비",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "jellyfish",
+   "meaning": "해파리",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "crocodile",
+   "meaning": "악어",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "pollution",
+   "meaning": "오염",
+   "section": null,
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "important",
+   "meaning": "중요한",
+   "section": null,
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "chemical",
+   "meaning": "화학의; 화학 약품",
+   "section": null,
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "multiply",
+   "meaning": "곱하다; 증가시키다",
+   "section": null,
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "shortage",
+   "meaning": "부족, 결핍",
+   "section": null,
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "lead to",
+   "meaning": "~로 이어지다, ~을 초래하다",
+   "section": null,
+   "day": 3,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "patriotic",
+   "meaning": "애국적인",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "delicious",
+   "meaning": "맛있는",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "generate",
+   "meaning": "생성하다, 발생시키다",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "telescope",
+   "meaning": "망원경",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "abundant",
+   "meaning": "풍부한, 풍족한",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "satellite",
+   "meaning": "위성",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "astronomy",
+   "meaning": "천문학",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "Big Bang",
+   "meaning": "빅뱅",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "and so on",
+   "meaning": "(기타) 등등",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "generator",
+   "meaning": "발전기",
+   "section": null,
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "landscape",
+   "meaning": "풍경",
+   "section": null,
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "classroom",
+   "meaning": "교실",
+   "section": null,
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "partner",
+   "meaning": "짝, 동료, 협력자",
+   "section": null,
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "entrance",
+   "meaning": "장, 입학",
+   "section": null,
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "knowledge",
+   "meaning": "지식",
+   "section": null,
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "counsel",
+   "meaning": "상담; 상담하다, 권고하다",
+   "section": null,
+   "day": 5,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "meanwhile",
+   "meaning": "그동안에",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "whatever",
+   "meaning": "~한 어떤, 어떤 ~이든",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 2
+  },
+  {
+   "word": "lengthen",
+   "meaning": "길어지다, 길게 하다 Word master 중등 실력 day 37-38",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "innocent",
+   "meaning": "무죄의, 결백한",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "minority",
+   "meaning": "소수; 소수의",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "witness",
+   "meaning": "목격자, 증인; 목격하다",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "candidate",
+   "meaning": "후보자",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "tradition",
+   "meaning": "전통",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "obstacle",
+   "meaning": "장애, 장애물",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "property",
+   "meaning": "재산, 소유물",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "democracy",
+   "meaning": "민주주의",
+   "section": null,
+   "day": 6,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "opponent",
+   "meaning": "상대, 반대자",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "different",
+   "meaning": "다른",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "increase",
+   "meaning": "증가; 증가하다",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "decrease",
+   "meaning": "감소; 감소하다",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "religious",
+   "meaning": "종교의",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "faithful",
+   "meaning": "신실한, 성실한",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "immigrate",
+   "meaning": "(타국에서) 이민을 오다",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "statistic",
+   "meaning": "통계치",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "ceremony",
+   "meaning": "의식, 예식",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "potential",
+   "meaning": "잠재적인",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "feedback",
+   "meaning": "피드백, 의견",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "audience",
+   "meaning": "청중, 관중",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "pretty",
+   "meaning": "예쁜, 귀여운; 매우, 아주",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "beautiful",
+   "meaning": "아름다운",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "muscular",
+   "meaning": "근육질의, 건장한",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "cheerful",
+   "meaning": "쾌활한, 명랑한",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "overcome",
+   "meaning": "극복하다",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "lifespan",
+   "meaning": "수명",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "breathe",
+   "meaning": "호흡하다, 숨을 쉬다",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "mosquito",
+   "meaning": "모기",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "kangaroo",
+   "meaning": "캥거루",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "dinosaur",
+   "meaning": "공룡",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "octopus",
+   "meaning": "문어, 낙지",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "swallow",
+   "meaning": "제비; 삼키다",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "such as",
+   "meaning": "~와 같은",
+   "section": null,
+   "day": 2,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "politics",
+   "meaning": "정치",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "probably",
+   "meaning": "아마",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "possible",
+   "meaning": "가능한",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "electric",
+   "meaning": "전기의",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "separate",
+   "meaning": "분리하다",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "resource",
+   "meaning": "자원",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "destroy",
+   "meaning": "파괴하다, 부수다",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "vacuum",
+   "meaning": "진공, 공백;",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "exhaust",
+   "meaning": "배기가스; 다 써버리다",
+   "section": null,
+   "day": 3,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "believe",
+   "meaning": "믿다, 생각하다",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "organize",
+   "meaning": "조직하다",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "obvious",
+   "meaning": "분명한, 명백한",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "shorten",
+   "meaning": "짧게 하다, 단축하다",
+   "section": null,
+   "day": 6,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "mention",
+   "meaning": "말하다, 언급하다",
+   "section": null,
+   "day": 7,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "consider",
+   "meaning": "고려하다",
+   "section": null,
+   "day": 7,
+   "score": 8,
+   "tier": 1
+  },
+  {
+   "word": "support",
+   "meaning": "지지하다",
+   "section": null,
+   "day": 2,
+   "score": 7,
+   "tier": 1
+  }
+ ],
+ "NEPTUNE": [
+  {
+   "word": "consequence",
+   "meaning": "결과",
+   "section": null,
+   "day": 3,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "millennium",
+   "meaning": "천년, 새로운 천년이 시작되는 시기",
+   "section": null,
+   "day": 3,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "continuous",
+   "meaning": "계속되는, 끊임없는",
+   "section": null,
+   "day": 3,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "put aside",
+   "meaning": "제쳐두다, ...을 따로 떼어 놓다",
+   "section": null,
+   "day": 3,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "attendance",
+   "meaning": "출석, 참석",
+   "section": null,
+   "day": 4,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "productive",
+   "meaning": "생산하는, 생산적인",
+   "section": null,
+   "day": 4,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "persistent",
+   "meaning": "끈질긴, 끊임없이 지속되는",
+   "section": null,
+   "day": 4,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "character",
+   "meaning": "성격, 성질, 특징",
+   "section": null,
+   "day": 4,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "electricity",
+   "meaning": "전기",
+   "section": null,
+   "day": 4,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "interpreter",
+   "meaning": "통역사",
+   "section": null,
+   "day": 5,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "distribute",
+   "meaning": "나누어 주다, 분배[배부]하다",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "discipline",
+   "meaning": "규율, 훈육",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "adolescence",
+   "meaning": "청소년기",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "sustainable",
+   "meaning": "(오랫동안) 지속 가능한",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "response",
+   "meaning": "응답, 대답, 반응, 부응",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "substitute",
+   "meaning": "대리(인), 대용품",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "accomplish",
+   "meaning": "성취[완수]하다, 해내다",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "manufacture",
+   "meaning": "제조[생산]하다",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "authority",
+   "meaning": "권한, 권위, 권력",
+   "section": null,
+   "day": 6,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "electronic",
+   "meaning": "전자의, 전자에 의한",
+   "section": null,
+   "day": 7,
+   "score": 11,
+   "tier": 3
+  },
+  {
+   "word": "effective",
+   "meaning": "유요한, 효력이 있는",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "penalty",
+   "meaning": "처벌, 형벌, 벌금,페널티킥",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "immigrate",
+   "meaning": "이주해 오다, 이민 오다",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "additional",
+   "meaning": "추가의",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "presence",
+   "meaning": "(특정한 곳에) 있음, 존재(함), 참석",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "constant",
+   "meaning": "끊임없는, 계속되는, 일정한",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "ordinary",
+   "meaning": "보통의, 평범한, 일상적인",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "parallel",
+   "meaning": "평행의, 나란한, 유사한",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "continent",
+   "meaning": "대륙, 육지",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "in detail",
+   "meaning": "상세히",
+   "section": null,
+   "day": 2,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "profession",
+   "meaning": "직업",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "spectacles",
+   "meaning": "안경",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "potential",
+   "meaning": "가능성, 잠재력",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "permanent",
+   "meaning": "영구적인, 영속하는",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "following",
+   "meaning": "다음의, 다음에 나오는",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "turn ... into ~",
+   "meaning": "...을 ~로 바꾸다",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "consider",
+   "meaning": "잘 생각하다, 숙고하다, ...로 여기다",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "distance",
+   "meaning": "거리, 간격, 먼 곳",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "miserable",
+   "meaning": "비참한, 불행한",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "principal",
+   "meaning": "주요한, 주된",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "moderate",
+   "meaning": "보통의, 중간의, 적당한",
+   "section": null,
+   "day": 3,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "interfere",
+   "meaning": "방해하다,간섭하다",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "impressive",
+   "meaning": "인상적인",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "celebrity",
+   "meaning": "유명인, 명성",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "complement",
+   "meaning": "보완[보충]하다",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "transform",
+   "meaning": "바꾸다, 변형시키다",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "phenomenon",
+   "meaning": "현상",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "interpret",
+   "meaning": "해석[이해]하다, 통역하다",
+   "section": null,
+   "day": 4,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "revolution",
+   "meaning": "혁명",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "uncertain",
+   "meaning": "확신이없는,잘모르는",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 2
+  },
+  {
+   "word": "delinquent",
+   "meaning": "직무태만의",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "duplicate",
+   "meaning": "이중의, 중복의",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "acrobatic",
+   "meaning": "곡예적인,곡예의",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "treatment",
+   "meaning": "취급, 대우",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "neglect",
+   "meaning": "돌보지 않다, 방치하다, 소홀히 하다, 등한시하다",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "dramatic",
+   "meaning": "급격한, 극적인, 인상적인",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "quantity",
+   "meaning": "양, 수량, 분량",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "literature",
+   "meaning": "문학",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "sacrifice",
+   "meaning": "희생하다, 희생",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "look into",
+   "meaning": "...을 조사하다",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "official",
+   "meaning": "공식적인, 공무원, 관리",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "take part",
+   "meaning": "참가[참여]하다",
+   "section": null,
+   "day": 5,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "finance",
+   "meaning": "재정, 재무, 자금, 재원",
+   "section": null,
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "sufficient",
+   "meaning": "충분한",
+   "section": null,
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "cultivate",
+   "meaning": "(땅을) 갈다, 경작하다",
+   "section": null,
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "proceed",
+   "meaning": "계속 진행하다, 이어서 …하다, 이동하다, 나아가다",
+   "section": null,
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "prejudice",
+   "meaning": "편견, 선입관",
+   "section": null,
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "inquiry",
+   "meaning": "질문, 문의, 조사, 수사",
+   "section": null,
+   "day": 6,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "prolonged",
+   "meaning": "오래 계속되는, 장기적인",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "sophomore",
+   "meaning": "(대학, 고등학교) 2년생",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "situation",
+   "meaning": "상황, 상태",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "moderately",
+   "meaning": "적당히",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "assemble",
+   "meaning": "모이다, 모으다, 조립하다",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "function",
+   "meaning": "기능, 기능하다, 작용하다",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "appliance",
+   "meaning": "(가정용) 기기, 가전",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "recommend",
+   "meaning": "추천하다, 권(장)하다",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "satellite",
+   "meaning": "(행성의) 위성, 인공위성",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "domestic",
+   "meaning": "국내의, 가정의, 가사의",
+   "section": null,
+   "day": 7,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "settlement",
+   "meaning": "정착지",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "awareness",
+   "meaning": "의식,관심",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "masculine",
+   "meaning": "남자의, 남성의",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "emphasize",
+   "meaning": "강조하다, 역설하다 능률 보카 중등 고난도 day 1-2",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "memorable",
+   "meaning": "기억할 만한,",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "passenger",
+   "meaning": "승객, 여객",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "priceless",
+   "meaning": "값을 매길 수 없는, 매우 귀중한",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "criticize",
+   "meaning": "비난[비판]하다, 비평하다",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "efficient",
+   "meaning": "효율적인, 유능한",
+   "section": null,
+   "day": 8,
+   "score": 10,
+   "tier": 1
+  },
+  {
+   "word": "emergency",
+   "meaning": "비상사태",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "survival",
+   "meaning": "살아남음, 생존",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "encounter",
+   "meaning": "(위험 등에) 맞닥뜨리다",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "confine",
+   "meaning": "한정하다, 제한하다, 가두다",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "portion",
+   "meaning": "일부, 부분, 1인분",
+   "section": null,
+   "day": 2,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "secretive",
+   "meaning": "비밀스러운",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "pleasure",
+   "meaning": "기쁨, 즐거움",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "colleague",
+   "meaning": "동료",
+   "section": null,
+   "day": 4,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "relaxing",
+   "meaning": "마음을 느긋하게 해주는, 편한",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "temporary",
+   "meaning": "일시적인",
+   "section": null,
+   "day": 7,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "absolute",
+   "meaning": "완전한,완벽한",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "resource",
+   "meaning": "자원,자산",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  },
+  {
+   "word": "fascinate",
+   "meaning": "매혹시키다",
+   "section": null,
+   "day": 8,
+   "score": 9,
+   "tier": 1
+  }
+ ]
+}
