@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "💻웹페이지 구성(프론트&백엔드+데이터베이스)"
-date: 2026-08-07
+date: 2026-07-14
 categories: 공부기록
 icon: "🗝️"
 image: "https://github.com/user-attachments/assets/953f1031-1a2d-4018-8291-2f6734405cc3"
