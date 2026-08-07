@@ -8,7 +8,7 @@ image: "https://github.com/user-attachments/assets/953f1031-1a2d-4018-8291-2f673
 thumb: "https://github.com/user-attachments/assets/9eca8f71-38bb-4106-ba61-8e0749f5d384"
 ---
 
-<p class="lead">프론트엔드-백엔드-데이터베이스 구조와 HTML·CSS·JS의 관계를 정리했다.</p>
+<p class="lead">프론트엔드-백엔드-데이터베이스 구조와 HTML·CSS·JS의 관계</p>
 
 ## 한눈에 비교
 
