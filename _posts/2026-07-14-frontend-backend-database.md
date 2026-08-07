@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "🖥️웹페이지 구성"
+title: "💻웹페이지 구성(프론트&백엔드+데이터베이스)"
 date: 2026-08-07
 categories: 공부기록
 icon: ""
-image: ""
-thumb: ""
+image: "https://github.com/user-attachments/assets/953f1031-1a2d-4018-8291-2f6734405cc3"
+thumb: "https://github.com/user-attachments/assets/9eca8f71-38bb-4106-ba61-8e0749f5d384">
+"
 ---
 
 <p class="lead">프론트엔드-백엔드-데이터베이스 구조와 HTML·CSS·JS의 관계를 정리했다.</p>
@@ -49,7 +50,7 @@ thumb: ""
 4. 백엔드가 데이터베이스에 "장바구니에 저장해줘" 명령
 5. 결과를 백엔드 → 프론트엔드로 돌려줘서 화면에 반영
 
-## 정리
+## 오늘의 한줄 정리
 
 - HTML/CSS/JS = 프론트엔드를 **만드는 재료**
 - 프론트엔드/백엔드/데이터베이스 = 웹 서비스의 **구조(계층)**
