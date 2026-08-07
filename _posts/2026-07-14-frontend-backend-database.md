@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🖥️프론트엔드·백엔드·데이터베이스와 HTML·CSS·JS"
+title: "🖥️웹페이지 구성"
 date: 2026-08-07
 categories: 공부기록
 icon: ""
