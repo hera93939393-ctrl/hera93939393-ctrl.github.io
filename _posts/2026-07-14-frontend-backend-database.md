@@ -3,7 +3,7 @@ layout: post
 title: "💻웹페이지 구성(프론트&백엔드+데이터베이스)"
 date: 2026-08-07
 categories: 공부기록
-icon: ""
+icon: "🗝️"
 image: "https://github.com/user-attachments/assets/953f1031-1a2d-4018-8291-2f6734405cc3"
 thumb: "https://github.com/user-attachments/assets/9eca8f71-38bb-4106-ba61-8e0749f5d384">
 "
