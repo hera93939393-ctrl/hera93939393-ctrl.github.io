@@ -8,3 +8,9 @@ minima:
   skin: classic
 
 show_excerpts: true
+
+# 제목 밑 메뉴에 보여줄 페이지를 직접 정한다 - 이게 없으면 테마가
+# ktw-voca-contest 폴더 안의 문서(README/PRD/변경이력/검증보고서)까지
+# 전부 "페이지"로 인식해서 메뉴에 나열해버린다.
+header_pages:
+  - about.md
