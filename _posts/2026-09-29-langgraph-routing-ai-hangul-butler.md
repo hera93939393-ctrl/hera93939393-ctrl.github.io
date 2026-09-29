@@ -5,8 +5,7 @@ date: 2026-09-29
 categories: 공부기록
 icon: "🧭"
 image: "<img width="480" height="366" alt="image" src="https://github.com/user-attachments/assets/cbefd721-aea0-4f21-8437-6d245ce0264f" />"
-thumb: "<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/85bef45a-661f-452c-9cfa-61e56e36afaa" />
-"
+thumb: "<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/85bef45a-661f-452c-9cfa-61e56e36afaa" />"
 ---
 
 <p class="lead"> 회사에서 한글(HWP) 보고서를 쓰다 보면 매번 반복하는 일이 있다 — 숫자 대조, 문장 다듬기, 표 삽입 등등. 이 반복 작업을 LLM과 대화하듯 채팅으로 시키는 도구를 만들면서, 랭그래프의 다섯 가지 패턴 중 "라우팅"을 실제로 적용해봤다:) </p>
