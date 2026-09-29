@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "랭그래프(LangGraph) 라우팅으로 만든 AI 한글집사"
+title: "랭그래프(LangGraph)의 '라우팅'으로 만든 AI 한글집사"
 date: 2026-09-29
 categories: 공부기록
 icon: "🧭"
