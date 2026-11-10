@@ -6,7 +6,7 @@
 <title>나의 공공기관 MBTI는?</title>
 <meta name="description" content="16년 차 공공기관 선배가 만든 재미로 보는 공공기관 성향 테스트. 12문항으로 알아보는 나의 공공기관 체질.">
 <meta property="og:title" content="나의 공공기관 MBTI는?">
-<meta property="og:description" content="16년 차 선배가 만든 12문항 테스트. 나는 타고난 체질? 현장 해결사? 꼼꼼한 실력파? 스타트업 체질?">
+<meta property="og:description" content="16년 차 선배가 만든 12문항 테스트. M(의미)·B(원칙)·T(속도)·I(나) 중 나는 BM, TM, BI, TI 어느 유형일까?">
 <meta property="og:image" content="https://hera93939393-ctrl.github.io/public-mbti/img/cover.jpg">
 <meta property="og:url" content="https://hera93939393-ctrl.github.io/public-mbti/">
 <meta property="og:type" content="website">
@@ -23,8 +23,14 @@
   h1 span{color:var(--coral)}
   .sub{font-size:14px;color:var(--soft);margin:0 0 14px}
   .hero{width:100%;max-width:300px;border-radius:20px;display:block;margin:0 auto}
-  .types{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:16px 0 4px;font-size:13px;font-weight:700}
-  .types div{border-radius:12px;padding:9px 6px;background:var(--opt)}
+  .types{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:10px 0 4px;font-size:13px;font-weight:700}
+  .types div{border-radius:12px;padding:9px 6px;background:var(--opt);word-break:keep-all}
+  .types b{display:block;font-size:16px;letter-spacing:1px}
+  .letters{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin:16px 0 4px}
+  .letters div{border-radius:14px;padding:10px 4px;color:#fff;font-size:11px;line-height:1.4;word-break:keep-all}
+  .letters b{display:block;font-size:24px;font-weight:900;line-height:1.1}
+  .lt-axis{font-size:12px;color:var(--soft);margin:12px 0 0;line-height:1.5}
+  .rletters{font-size:56px;font-weight:900;letter-spacing:6px;line-height:1.1;margin:4px 0 0;background:linear-gradient(90deg,var(--coral),var(--sun),var(--mint),var(--sky));-webkit-background-clip:text;background-clip:text;color:transparent}
   .note{font-size:12px;color:#999;margin-top:12px;line-height:1.5}
   .btn{display:block;width:100%;border:0;border-radius:16px;padding:16px;font-size:16px;font-weight:700;cursor:pointer;margin-top:12px;font-family:inherit;transition:transform .1s}
   .btn:active{transform:scale(.98)}
@@ -82,9 +88,17 @@
     <h1>나의 <span>공공기관 MBTI</span>는?</h1>
     <p class="sub">12문항으로 알아보는 나의 공공기관 체질</p>
     <img class="hero" src="img/cover.jpg" alt="빨간펜, 체크리스트, 커피, 방패를 든 직장인 캐릭터 네 명">
+    <p class="lt-axis">공공기관 MBTI의 네 글자는 이런 뜻이에요</p>
+    <div class="letters">
+      <div style="background:var(--sky)"><b>M</b>Meaning<br>의미·함께</div>
+      <div style="background:var(--coral)"><b>B</b>By the book<br>원칙·절차</div>
+      <div style="background:var(--sun);color:var(--ink)"><b>T</b>Turbo<br>속도·도전</div>
+      <div style="background:var(--mint)"><b>I</b>I<br>나·보상</div>
+    </div>
+    <p class="lt-axis">일하는 방식은 <b>B</b> 아니면 <b>T</b>, 보람은 <b>M</b> 아니면 <b>I</b>.<br>두 글자를 모으면 나의 유형이 나와요.</p>
     <div class="types">
-      <div>🛡️ 타고난 공공기관 체질</div><div>📣 열정 넘치는 현장 해결사</div>
-      <div>🔍 꼼꼼한 실력파</div><div>🚀 스타트업이 부르는 사람</div>
+      <div><b>BM</b>🛡️ 타고난 공공기관 체질</div><div><b>TM</b>📣 열정 넘치는 현장 해결사</div>
+      <div><b>BI</b>🔍 꼼꼼한 실력파</div><div><b>TI</b>🚀 스타트업이 부르는 사람</div>
     </div>
     <button class="btn go" onclick="begin()">테스트 시작하기</button>
     <p class="note">재미로 보는 자가진단이에요. 검증된 심리검사가 아니에요.<br>질문은 실제 공공기관에서 일어나는 장면으로 만들었어요.</p>
@@ -124,6 +138,7 @@
   <!-- 결과 -->
   <section class="screen" id="result">
     <p class="label">나의 공공기관 MBTI는</p>
+    <div class="rletters" id="rletters"></div>
     <div class="rname" id="rname"></div>
     <p class="rcode" id="rcode"></p>
     <img class="hero" id="rimg" alt="" style="margin-top:10px">
@@ -132,8 +147,8 @@
     <div id="rme"></div>
 
     <div class="meters">
-      <div class="meter"><div class="lr"><span>원칙·절차</span><span>속도·도전</span></div><div class="track"><i id="mA1" style="background:var(--coral)"></i><i id="mA2" style="background:var(--sun)"></i></div></div>
-      <div class="meter"><div class="lr"><span>의미·함께</span><span>나·보상</span></div><div class="track"><i id="mB1" style="background:var(--sky)"></i><i id="mB2" style="background:var(--mint)"></i></div></div>
+      <div class="meter"><div class="lr"><span>B 원칙·절차</span><span>T 속도·도전</span></div><div class="track"><i id="mA1" style="background:var(--coral)"></i><i id="mA2" style="background:var(--sun)"></i></div></div>
+      <div class="meter"><div class="lr"><span>M 의미·함께</span><span>I 나·보상</span></div><div class="track"><i id="mB1" style="background:var(--sky)"></i><i id="mB2" style="background:var(--mint)"></i></div></div>
     </div>
 
     <div class="box feat"><h3>이런 사람이에요</h3><ul id="rfeat"></ul></div>
@@ -171,19 +186,19 @@ const Q = [
 ];
 
 const TYPES = {
-  "00":{key:"A",name:"타고난 공공기관 체질",code:"원칙 × 의미",img:"PRMT",stars:5,
+  "00":{key:"A",letters:"BM",name:"타고난 공공기관 체질",code:"By the book × Meaning · 원칙 × 의미",img:"PRMT",stars:5,
     feat:["발령이 나면 규정과 법부터 찾아본다","빨간펜과 꼬리 질문을 공짜 과외로 받아들인다","내 이름이 안 나가도 기관의 일이 잘되면 뿌듯하다"],
     grow:"<b>채우면 좋은 것</b><br>너무 꼼꼼해서 가끔 숲을 보는 것을 놓칠 수 있어요. 한 걸음 물러나 \"이 사업이 결국 무엇을 바꾸려는 걸까\"를 함께 보면, 금세 선배 같은 시각을 갖게 될 거예요.",
     say:"<b>16년 차 선배의 한마디</b><br>빨간펜은 견뎌야 할 벌이 아니라 공짜로 받는 과외예요. 괴물 같은 일을 만나도 능력치를 올리는 당신, 공공기관이 기다리고 있어요."},
-  "10":{key:"B",name:"열정 넘치는 현장 해결사",code:"속도 × 의미",img:"fixer",stars:4,me:true,
+  "10":{key:"B",letters:"TM",name:"열정 넘치는 현장 해결사",code:"Turbo × Meaning · 속도 × 의미",img:"fixer",stars:4,me:true,
     feat:["세상을 바꾸고 싶은 마음이 크다","일단 부딪히며 해내는 실행력이 있다","절차가 답답하게 느껴질 때가 많다"],
     grow:"<b>채우면 좋은 것</b><br>규정과 절차, 법을 미리 찾아 익히는 습관이요. 이건 성격이 아니라 노력의 영역이에요. 근거를 갖추면 당신의 열정은 머리를 움직이는 손발이 돼요.",
     say:"<b>16년 차 선배의 한마디</b><br>저도 이 유형이에요. 원칙은 일하면서 배웠어요. 감사관의 눈으로 한 번 더 보는 법만 익히면, 현장을 가장 잘 아는 사람이 될 수 있어요."},
-  "01":{key:"C",name:"꼼꼼한 실력파",code:"원칙 × 나",img:"expert",stars:3,
+  "01":{key:"C",letters:"BI",name:"꼼꼼한 실력파",code:"By the book × I · 원칙 × 나",img:"expert",stars:3,
     feat:["숫자 하나, 영수증 한 장도 놓치지 않는다","한 분야를 깊게 파는 전문가가 되고 싶다","내 실력이 인정받을 때 가장 신난다"],
     grow:"<b>채우면 좋은 것</b><br>함께 해낸 일에서 보람을 찾는 연습이요. 공공기관에서는 내가 만들었어도 혼자 밖으로 나가는 보고서는 없어요. 몇 년마다 바뀌는 자리도 미리 각오해 두세요.",
     say:"<b>16년 차 선배의 한마디</b><br>당신 같은 사람은 감사나 계약처럼 정확함이 생명인 자리에서 빛나요. 이름 없이 일하는 즐거움까지 알게 되면 정말 든든한 선배가 될 거예요."},
-  "11":{key:"D",name:"스타트업이 부르는 사람",code:"속도 × 나",img:"SFBI",stars:1,
+  "11":{key:"D",letters:"TI",name:"스타트업이 부르는 사람",code:"Turbo × I · 속도 × 나",img:"SFBI",stars:1,
     feat:["빠르게 달리고, 반복되는 일은 금방 지루하다","성과만큼 바로 보상받는 게 공정하다고 느낀다","내 이름이 드러날 때 의욕이 솟는다"],
     grow:"<b>그래도 공공기관에 오고 싶다면</b><br>1년 단위로 돌아오는 업무 흐름과, 1년에 한 번인 성과급 구조를 미리 알고 오세요. 가고 싶은 기관의 성과급은 알리오에서 직접 찾아볼 수 있어요.",
     say:"<b>16년 차 선배의 한마디</b><br>부족한 게 아니라 맞는 무대가 다를 뿐이에요. 빠르게 달리고 크게 인정받는 곳에서 당신은 훨씬 더 빛날 거예요."}
@@ -215,6 +230,7 @@ function score(){
 function finish(){const s=score();paint(s.code,s.a,s.b);history.replaceState(null,'','#'+TYPES[s.code].key)}
 function paint(code,a,b){
   const t=TYPES[code];
+  $('rletters').textContent=t.letters;
   $('rname').textContent=t.name;
   $('rcode').textContent=t.code;
   $('rimg').src='img/'+t.img+'.jpg'; $('rimg').alt=t.name+' 캐릭터';
@@ -225,15 +241,15 @@ function paint(code,a,b){
   $('mB1').style.width=((6-b)/6*100)+'%'; $('mB2').style.width=(b/6*100)+'%';
   $('rfeat').innerHTML=t.feat.map(f=>`<li>${f}</li>`).join('');
   $('rgrow').innerHTML=t.grow; $('rsay').innerHTML=t.say;
-  $('all').innerHTML=["00","10","01","11"].map(c=>[c,TYPES[c]]).map(([c,x])=>`<button class="${c===code?'cur':''}" onclick="peek('${c}')"><img src="img/${x.img}.jpg" alt="">${x.name}</button>`).join('');
+  $('all').innerHTML=["00","10","01","11"].map(c=>[c,TYPES[c]]).map(([c,x])=>`<button class="${c===code?'cur':''}" onclick="peek('${c}')"><img src="img/${x.img}.jpg" alt=""><b>${x.letters}</b><br>${x.name}</button>`).join('');
   show('result');
 }
 function peek(c){paint(c)}
 function restart(){history.replaceState(null,'',location.pathname);show('start')}
 function toast(m){const t=$('toast');t.textContent=m;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1800)}
 async function share(){
-  const name=$('rname').textContent;
-  const text=`나의 공공기관 MBTI는 "${name}"! 너는 어떤 유형이야?`;
+  const name=$('rname').textContent, lt=$('rletters').textContent;
+  const text=`나의 공공기관 MBTI는 ${lt}형, "${name}"! 너는 어떤 유형이야?`;
   const url=location.href.split('#')[0];
   try{
     if(navigator.share){await navigator.share({title:'나의 공공기관 MBTI는?',text,url})}
